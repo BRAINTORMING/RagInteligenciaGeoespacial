@@ -1,0 +1,998 @@
+ESTRATEGIA NACIONAL DE
+HIDRÓGENO VERDE
+Chile, fuente energética para un planeta cero emisiones
+Estrategia Nacional Hidrógeno Verde
+Publicado por el Ministerio de Energía, Gobierno de Chile
+Alameda 1449, Edificio Santiago Downtown II, Piso 13
+Santiago de Chile
+Noviembre, 2020
+
+Los autores agradecen a McKinsey & Company por proveer el apoyo y
+fundamento analítico de este trabajo. También reconocen el temprano aporte
+del Comité Solar e Innovación Energética de CORFO en la discusión nacional
+sobre el hidrógeno. Además, el Ministerio de Energía agradece el apoyo
+constante del Programa de Energías Renovables y Eficiencia Energética de la
+agencia alemana GIZ, así como a todos los servicios públicos, empresas,
+asociaciones civiles y colaboradores individuales que entregaron sus
+comentarios y compartieron su experiencia durante la elaboración de esta
+política pública.
+
+Edición general:
+Max Correa A. – Carlos Barría Q. – Benjamín Maluenda P.
+
+Diseño: Patricia Escobar A.
+
+Imágenes: Unsplash; Portada: Pablo Acevedo; Pagina 3, La Tercera; Página 5, Antonio García;
+Página 14, Alexander Schimmeck; Página 15, Kurt Cotoaga; Página 16, Antonio Martínez; Página 20,
+Tilo Mitra; Página 24, Willian Justen de Vasconcellos; Página 25, Eduardo Cabrera; Página 26,
+Bruna Fiscuk; Página 27, Claudio Rolli; Página 28, Juan Manuel Núñez Méndez. Imagen en página 9
+de Guy Wenborne. – Imagen de Chile Imagen en página 29 de Gnzlndrs.
+
+Los prefijos k, M, B y T utilizados en este documento simbolizan miles,                            Este documento es una versión preliminar liberada para un
+millones, miles de millones y billones, respectivamente.                                                 proceso de consulta pública. La versión definitiva y el
+                                                                                                   respaldo a los análisis realizados serán publicados una vez
+Los contenidos de este informe pueden ser reproducidos en cualquier medio                               se recojan e incorporen las observaciones del público.
+citando la fuente.                                                                                                                  Participa en energía.gob.cl.
+Índice
+Capítulo 1                    5
+Es tiempo de actuar
+Capítulo 2                    9
+Una oportunidad para Chile
+Capítulo 3                   15
+Nuestra estrategia
+Capítulo 4                   20
+Pilares
+Capítulo 5                   24
+Plan de acción
+                           El hidrógeno, el átomo compuesto por solo un     abundante energía renovable nos permitirá ser
+                           protón y un electrón, es la sustancia más        el productor más barato de hidrógeno verde del
+                           abundante del universo. También es el            planeta. Nuestra Estrategia Nacional de
+                           elemento más ligero y el más simple de la        Hidrógeno Verde tiene como objetivo tomar
+                           tabla periódica. Recientemente, se le ha         esta oportunidad y convertirla en realidad.
+                           prestado mucha atención por su rol potencial
+                           en la lucha contra el cambio climático.          La Estrategia es el resultado del trabajo
+                           Específicamente, el interés en torno al          colaborativo de la industria, la academia, la
+                           hidrógeno se ha centrado en su capacidad para    sociedad civil y el sector público. Forma una
+                           reducir las emisiones de gases de efecto         pieza esencial de nuestro plan de carbono
+                           invernadero en los sectores de la economía       neutralidad y de nuestro compromiso de
+                           que son más difíciles de mitigar. ¿Será que el   desarrollarnos de manera sostenible. Además
+                           átomo más simple y pequeño podrá ser la          de limpiar nuestra economía, nos permitirá
+                           clave para combatir el cambio climático, el      exportar productos creados con energía cero
+                           desafío más grande y complejo?                   emisiones,        diferenciándose       como
+                                                                            exportaciones limpias frente a los usuarios
+                           Al igual que el hidrógeno, Chile es un país      finales. Finalmente, también nos permitirá
+                           relativamente pequeño; contribuye solo con el    exportar nuestra energía renovable al mundo
+                           0,3% de las emisiones globales. Sin embargo,     en forma de hidrógeno verde y sus derivados;
+                           tenemos un papel enorme que desempeñar           amoniaco verde, metanol y combustibles
+                           para cambiar el rumbo del aumento de las         sintéticos.
+                           emisiones y seguir un camino bajo en carbono
+                           para el crecimiento y el desarrollo.             Históricamente, en Chile hemos carecido de
+                                                                            combustibles fósiles y nos hemos visto
+                           Lo que nos falta en tamaño, lo compensamos       obligados a importar esta energía. Ahora, el
+Juan Carlos Jobet E.       con creces en potencial. En el desierto del      surgimiento del hidrógeno nos permitirá
+                           norte, con la radiación solar más alta del       impulsar una descarbonización profunda en
+     Ministro de Energía   planeta, y con vientos fuertes y constantes en   nuestro propio país y en todo el mundo. Esta
+                           el sur, tenemos el potencial de energía          Estrategia es el primer paso para que
+                           renovable para construir 70 veces la capacidad   alcancemos esta meta y desarrollemos todo
+                           de generación eléctrica que tenemos hoy. Esta    nuestro potencial.
+
+
+                                                                                        ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 2
+CARTA DEL                               Nuestro país se ha comprometido a
+                                        disminuir sus emisiones de gases de efecto
+                                                                                        transporte y ofreciendo nuestros energéticos
+                                                                                        de carácter renovable a quienes los
+                                                                                                                                          emisiones. Para esto, debemos entregar
+                                                                                                                                          señales regulatorias claras y transparentes
+CONSEJO ASESOR                          invernadero para ayudar a frenar el cambio      necesiten. Una oportunidad concreta, por          para nivelar la cancha con combustibles más
+
+
+
+
+“
+                                        climático que nos afecta globalmente,           ejemplo, sería convertirse en el productor        sucios. También debemos dar señales claras
+                                        transitando a un desarrollo sostenible. Es en   principal de cobre verde a nivel mundial. De      acerca del apoyo financiero, así como ejercer
+                                        la riqueza de energías limpias de Chile donde   esta manera vemos que se ofrece al país la        coordinación y liderazgo desde el Ejecutivo
+Esta Estrategia                         vemos un motor para descarbonizar las
+                                        actividades del país, diversificar su matriz
+                                                                                        oportunidad de generar espacios de
+                                                                                        innovación, potenciar el crecimiento y el
+                                                                                                                                          para     atraer
+                                                                                                                                          internacionales.
+                                                                                                                                                             empresas
+                                                                                                                                                              En   profunda
+                                                                                                                                                                            locales     e
+                                                                                                                                                                                 sinergia,
+Nacional de                             energética y generar nuevas industrias de
+                                        desarrollo local. Chile puede transicionar de
+                                                                                        empleo local, así como crear nuevas
+                                                                                        empresas de impacto local y global.
+                                                                                                                                          debemos también facilitar el desarrollo de
+                                                                                                                                          una industria de exportación de hidrógeno y
+Hidrógeno Verde                         un país que crece extrayendo recursos no                                                          sus derivados, que nos permita lograr
+                                        renovables, a uno que produce los               El gran desafío de estos años que vienen          economías de escala que nos hagan
+marca un punto de                       combustibles limpios y renovables que           será    materializar  estas   oportunidades       competitivos.
+                                        requiere el mundo para evitar el cambio         mediante acciones concretas. Vemos que
+partida esencial                        climático.                                      esta Estrategia Nacional de Hidrógeno Verde       Así Chile se convertirá en un exportador de
+para una
+       “
+transformación
+profunda de la
+identidad
+                                        Chile tiene una oportunidad única para
+                                        desarrollar una industria competitiva de
+                                        hidrógeno verde que, a partir de electricidad
+                                        producida con recursos renovables de bajo
+                                        costo, permita formar un energético de uso
+                                        local y de exportación, impulsando una
+                                        economía sustentable en torno a esta.
+                                                                                        marca un punto de partida esencial para una
+                                                                                        transformación profunda de la identidad
+                                                                                        productiva del país. Pero también es
+                                                                                        esencial, porque posiciona a Chile en el
+                                                                                        liderazgo global y genera una coordinación
+                                                                                        público-privada en torno a objetivos claros
+                                                                                        que guíen la acción.
+                                                                                                                                          energías renovables al mundo, a través de
+                                                                                                                                          sus energéticos y productos con sello verde.
+
+                                                                                                                                          Como Consejo Asesor para la elaboración de
+                                                                                                                                          la Estrategia Nacional de Hidrógeno Verde,
+                                                                                                                                          nos encontramos muy entusiasmados por
+                                                                                                                                          impulsar esta oportunidad para el país,
+                                                                                                                                          ayudando a sentar las bases de lo que será
+productiva del                                                                          Debemos promover el uso de este                   una nueva industria para Chile, cuyo éxito
+país.                                   Esta oportunidad puede tener un gran
+                                        impacto en nuestra marca país, agregando
+                                                                                        energético      en      territorio   nacional,
+                                                                                        desplazando el consumo de combustibles
+                                                                                                                                          traerá beneficios tanto para el país como
+                                                                                                                                          para el planeta.
+                                        un valor verde a los productos creados en       fósiles en los sectores minero, transporte y
+                                        Chile, reduciendo su huella de carbono de       agrícola, para así ofrecer productos bajos en
+
+
+
+
+                                                                                                     Gonzalo                             Klaus                         Jeannette von
+              Ricardo                Vivianne                           Marcelo                                                          Schmidt-
+              Lagos                  Blanlot                            Mena                         Muñoz                               Hebbel                        Wolfersdorff
+
+Ex Presidente de la     Ex Secretaria Ejecutiva Comisión    Ex Ministro de Medio         High-Level Champion COP25,       Ex Economista en Jefe           Fundadora del Observatorio
+República.              Nacional de Energía y Ex Ministra   Ambiente y académico.        cofundador SistemaB y            de la OCDE, académico           del Gasto Fiscal en Chile y
+                        de Defensa Nacional.                                             emprendedor.                     y consultor.                    economista.
+
+
+                                                                                                                                         ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 3
+La ruta a una estrategia participativa
+
+                             Mesas Técnicas                                                Talleres Ciudadanos
+                             Se llevaron a cabo mesas técnicas con representantes          Se realizaron talleres con representantes de
+                             de empresas, universidades, centros de investigación y        ONGs y asociaciones ciudadanas locales con el
+                             asociaciones gremiales con el fin de identificar barreras     fin de identificar principales preocupaciones de
+                             al desarrollo del hidrógeno, proponer acciones y              la ciudadanía y su percepción acerca del rol del
+                             priorizarlas.                                                 Estado en estos desarrollos.
+                             4 sesiones entre junio y julio de 2020                        3 talleres en agosto de 2020
+                             Participantes: 66 organizaciones.                             Participantes: 90 representantes.
+
+
+
+
+ Mesa Interinstitucional                                       Consejo Asesor                                           Consulta Pública
+ Se formó una mesa que sesionó para elaborar un                Este consejo se conformó con especialistas en            Este documento está
+ diagnóstico, proponer objetivos y crear un relato             políticas públicas para asesorar al Ministerio de        en proceso de consulta
+ común para el desarrollo del hidrógeno verde en               Energía, convocados para aportar a la definición         pública. Para participar
+ Chile.                                                        de lineamientos estratégicos de alto nivel.              de este proceso, visite
+ 4 sesiones entre abril y octubre de 2020                      4 sesiones entre mayo y agosto de 2020                   el    sitio  web     del
+                                                                                                                        Ministerio de Energía en
+ Participantes: Ministerios de Energía; Ciencia,               Miembros: Ex Presidente Ricardo Lagos, Vivianne
+ Tecnología, Conocimiento e Innovación; Minería;               Blanlot, Jeannette von Wolfersdorff, Klaus
+                                                                                                                        energía.gob.cl.
+ Economía; Transporte y Telecomunicaciones; Medio              Schmidt-Hebbel, Marcelo Mena, Gonzalo Muñoz.
+ Ambiente y Relaciones Exteriores, junto con CORFO e
+ InvestChile, además de la agencia alemana GIZ.
+
+
+
+
+                                                                                                              ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 4
+Planta solar fotovoltaica Bolero, Región de Antofagasta
+
+
+
+
+                                                                               1
+                                                             Es tiempo de actuar
+                                                          La molécula más simple frente
+                                                               al desafío más complejo
+Vivimos una crisis climática                                              Calentamiento global respecto a 1850-1900 (°C)
+                                                                          Fuente: IPCC. (2019). Special Report: Global Warming of 1.5°C.
+
+
+La ciencia ha advertido que pronto el mundo experimentará una crisis
+climática sin precedentes en la historia causada por la acción humana,                  Calentamiento
+                                                                                        antropogénico
+a menos que acciones transformadoras sean tomadas a escala global.                         estimado y
+                                                                                             probable
+Chile se ha comprometido con la acción climática de manera
+decidida y ambiciosa. Durante el 2020 actualizó su Contribución
+Determinada a Nivel Nacional y se comprometió a ser carbono-neutral
+
+
+
+
+                                                                                                                                                                    Escenarios
+                                                                                                                                  Emisiones globales de CO2eq
+                                                                                                                                        llegan a cero en 2055
+al 2050, siendo el único país en vías de desarrollo en hacerlo y uno de
+                                                                                                                                  Emisiones globales de CO2eq
+los pocos del mundo en comenzar a tramitar una Ley Marco de                                                                             llegan a cero en 2040
+Cambio Climático. El cumplimiento de ambos objetivos requerirá de                                                            Forzamiento radiativo no-CO2 no
+acciones transformadoras en su sociedad y su economía.                                                                            se reduce después de 2030
+
+
+
+
+La producción y el uso de la energía están al                             Emisiones globales de gases de efecto invernadero por sector
+                                                                          Fuente: Ritchie, H. (2020). Publicado en ourworldindata.org con datos de Climate Watch y el
+centro del desafío                                                        World Resources Institute.
+                                                                                                              7,2%                3,6% Química y
+La forma en que la energía se produce y consume en el mundo deberá                                  Hierro y acero                     petroquímica
+                                                                                      Agricultura,
+experimentar cambios radicales. Tres cuartas partes de las emisiones                  silvicultura y                                        11,9%
+de gases de efecto invernadero del planeta corresponden a este                        uso de tierra         18,4%                           Transporte
+sector, principalmente producidas por el uso de combustibles fósiles.                                                                       terrestre
+                                                                                      Desechos          5,2%
+En Chile ya se ha iniciado una ruta a la eficiencia energética y a la
+electrificación usando energía renovable. Sin embargo, es necesario                     Industria       5,2%            Energía
+                                                                                                                         73,2%                10,9%
+desarrollar soluciones complementarias para descarbonizar sectores y
+aplicaciones en las que la electricidad directa u otras soluciones no                                                                         Viviendas
+son costo-eficientes, confiables, accesibles o factibles.
+                                                                                                                                           6,6%
+                                                                                                24,9%
+                                                                                                                                           Comercial
+                                                                                                Otros
+
+
+                                                                                                                          ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 6
+El poder del hidrógeno verde
+Es la evolución de un gas industrial      Energía eléctrica                     Potencial de descarbonización del hidrógeno verde
+utilizado ampliamente hace cientos        renovable                 O2          Fuente: Adaptado de Siemens, Power-to-X.
+de años: el hidrógeno elemental (H2).
+Hoy se produce con eficiencias y          Agua                        H2
+escalas cada vez mayores a partir del
+agua. Esta se separa en sus
+                                                                                                                                      Calor y frío              Otras
+componentes, hidrógeno y oxígeno,         Hidrógeno Verde                               Energía                                                               industrias
+utilizando energía eléctrica renovable.                                             eléctrica limpia
+
+
+
+                                          Históricamente, se ha producido
+                           CO2            a partir de los combustibles                                                        Calderas                             Acero
+                                          fósiles en procesos que emiten                          Turbinas,         Hidrógeno
+                                                                                                                              y red de           Reemplazo de
+   Combustible
+   fósil                    H2            gases de efecto invernadero. Se                         motores,
+                                                                                                  celdas de
+                                                                                                                      verde
+                                                                                                                                   gas              coque
+
+                                          ha usado mayormente en                                  combustible
+                                          industrias   químicas    y   en
+  Hidrógeno Gris                          refinación del petróleo.                                Electrólisis                  Reemplazo de
+                                                                                                                                hidrógeno gris                    Amoniaco y
+                                                                                                                                                  Industria       fertilizantes
+                                                                                                             Celdas de
+                                                                                                          combustible,
+                                                                                                                              Reemplazo de         química        verdes
+                                                                                                                              hidrógeno gris
+                                                                                                        co-combustión
+                                                                                     Transporte
+                                                                                                                                        Industria
+   Es un medio para           Actúa como una             Puede reemplazar                                                             petroquímica
+ utilizar la inagotable      fuente energética          combustibles para
+   energía renovable          que no produce           producir electricidad,                                                                           Agricultura
+ encontrada en varias         gases de efecto             calor y diversos                                         Combustibles
+                                                                                                                 sintéticos verdes
+ formas en el planeta.       invernadero en su             compuestos.
+                                    uso.
+
+
+
+
+                                                                                                                         ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 7
+El momento del hidrógeno es ahora                                                                                                        22
+                                                                                                                                                                Generación,
+Después de varias décadas de expectación por el potencial del                             Demanda global de energía                      3
+                                                                                                                                                                almacenamiento
+hidrógeno como energético, hoy este elemento está listo para                              suministrada con
+asumir un rol protagónico en la transición energética y                                   hidrógeno (PWh)                                6                      Transporte
+productiva que el mundo debe navegar.                                                     Fuente: Hydrogen Council. (2017).
+                                                                                          Hydrogen: Scaling up.                                                 Calefacción
+Países que representan casi el 90% del PIB global tienen políticas                                                                        3                     residencial y
+e iniciativas públicas de apoyo al hidrógeno                                                                                                                    energía
+                                                                                                                               8
+Fuente: LBST. (2020). International Hydrogen Strategies. Preparado para WEC Alemania..                                                   5                      Industria
+                                                                                                                   4
+                                                                                                        3                                 3
+                                                                                             2                                                                  Nuevos usos
+                                                                                                                                          3
+
+                                                                                           2015      2020       2030          2040      2050                    Usos existentes
+
+
+                                                                                         Al 2050, las matrices energéticas y economías del mundo lucirán
+                                                                                         más verdes. La disminución proyectada de los costos de energía
+                                                                                         renovable y electrólisis, junto con la necesidad de descarbonizar
+                                                                                         todos los sectores de las economías, impulsarán un mercado
+                                                                                         global del hidrógeno verde y sus derivados.
+
+
+
+                                                                                          18%           2,5   TUSD                             300BUSD 80%
+                                                                                          Demanda final Mercado total                          Mercado de              Baja de costos
+                                                                                           de energía              del hidrógeno               exportación             de electrolizador
+   Estrategia nacional disponible                         Discusiones preliminares
+   Estrategia nacional en preparación                     Sin actividades relevantes     Hydrogen Council, 2017.                              Strategy& (PwC), 2020.
+
+   Apoyo a pilotos y proyectos demostrativos              No evaluado
+
+
+                                                                                                                                     ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 8
+Parque eólico Punta Sierra, Región de Coquimbo
+
+
+
+
+                                                              2
+                                                 Una oportunidad
+                                                       para Chile
+                                                    Energía limpia para una
+                                                           transición global
+ Un país rico en las energías                                       Costo nivelado de electricidad renovable
+                                                                    (USD/MWh)
+ del futuro                                                    40
+                                                                    Fuente: McKinsey & Company.
+
+
+                                                               35
+                                                                                    Centro
+                                                                             (Solar fotovoltaica,
+                                                               30             R. Metropolitana)
+                                                                                                                                 Sur
+                                                               25                                                          (Eólica on-shore,
+
+     509 +            1180+          191      +      6         20
+                                                                                                                            R. Magallanes)
+
+     GW               GW             GW              GW        15
+ Concentración         Solar        Eólica    Hidroeléctrica   10                          Norte
+solar de potencia   fotovoltaica   on-shore     de pasada                            (Solar fotovoltaica,
+                                                               5                       R. Antofagasta)
+
+                                                               0
+                    1.800+ GW                                  2020            25           30              35       40         45             2050
+
+           de potencial energético renovable                        En el norte de Chile se encuentra la radiación solar más alta del planeta.
+                                                                    Se alcanzan factores de planta de 35% en plantas fotovoltaicas monofaciales de
+      que equivalen a 70 veces la demanda de Chile                  seguimiento en 1 eje.
+
+    Los sectores solares y eólicos están madurando                  La generación solar en la zona central es más competitiva que la
+    aceleradamente. En 6 años, Chile ha quintuplicado su            generación eléctrica con energía fósil.
+                                                                    Este potencial es cercano a grandes centros de consumo, a redes de gas y a
+    capacidad de generación de esas fuentes y se proyecta
+                                                                    centros logísticos portuarios y viales.
+    que, al 2030, hasta el 70% de su matriz eléctrica sea
+    renovable. La creciente inversión en estas energías, así        Los vientos del extremo austral soplan con la misma energía en tierra
+    como en almacenamiento y en infraestructura de                  que mar adentro.
+    transmisión, es una señal inequívoca de una transición          Turbinas eólicas de 120 metros de altura pueden alcanzar factores de planta sobre
+    decidida a un sistema eléctrico más sostenible.                 60% en tierra, equivalente a turbinas off-shore en otros países.
+
+
+                                                                                                                 ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 10
+      El hidrógeno verde más competitivo del planeta
+
+      Costo nivelado de hidrógeno verde                                           Las bajas en costos de electrolizadores y de
+      (USD/kg H2)                                                                 generación renovable habilitarán un hidrógeno
+      Fuente: McKinsey & Company.                                                 verde competitivo doméstica e internacionalmente
+2,5                                                                               La creciente disponibilidad de financiamiento verde y los beneficios
+               2,6                                                                tributarios vigentes para zonas extremas son otros de los factores
+       Centro                                                                     que contribuirán a la competitividad de los modelos de negocio
+2,0
+                                                                                  basados en este combustible limpio en Chile.
+               2,0
+       Norte               1,8
+1,5
+       Sur                              1,5
+               1,7         1,4                                                                             2,6
+                                        1,2           1,3
+                                                                     1,2   1,1
+1,0                       1,3                                                                      2,2                  El hidrógeno verde producido en el
+                                                      1,1                                                        2,1    Desierto de Atacama y en la Región de
+                                        1,1                         1,1    1,0          1,8 1,7
+                                                    1,0                                                                 Magallanes tendría el costo nivelado de
+                                                                    0,9    0,8
+0,5                                                                               1,4                                   producción* más bajo del mundo al 2030.
+                                                                                                                        La calidad de los recursos renovables
+                                                                                                                        de esas zonas habilitarán una
+ 0
+                                                                                                                        producción competitiva a gran escala.
+ 2020           25         30          35           40              45     2050   1,3
+                                                                                                                        *Sin considerar costos de compresión, transporte y
+
+               Potencial de 160 Mton por año de
+                                                                                                                        distribución, los que varían según la aplicación final.
+                                                                                  Chile Medio Aus- China   UE    EEUU   Fuente: McKinsey & Company.
+                                                                                        Orient tralia
+                  producción de hidrógeno verde*                                          e
+                       *Fuente: Agencia Internacional de Energía.
+
+
+                                                                                                                              ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 11
+       Una oportunidad única:
+       Industria limpia del tamaño de nuestra minería
+       Proyección de mercados chilenos de hidrógeno verde y derivados         La descarbonización y la
+       (BUSD)                                                                 competitividad de Chile en
+       Fuente: McKinsey & Company.                                            energías renovables le abre
+                                                                        33
+            Aplicaciones domésticas   Crecimiento anual                       las puertas para crear un
+                                            +15%            28          9     sector económico que podría
+            Exportaciones
+                                                      23     8                equiparar en tamaño a la
+                                                      7                       industria minera nacional.
+                                         16
+                                                                              De hacer las cosas bien y a tiempo, el
+                                          5                                   uso     de    hidrógeno     verde   en
+                                                                        24
+                                                             19               aplicaciones domésticas generará
+                                5                     16                      una      industria    preparada   para
+                                         11
+                1               2                                             competir           en         mercados
+                                3                                             internacionales de exportación. La
+                                                                              inversión en hidrógeno verde estará
+              2025            2030      2035         2040   2045    2050
+                                                                              aparejada      de      generación   de
+Capacidad
+                                                                              capacidades locales y creará polos de
+renovable      5-8             40        145          200   250         300
+asociada                                                                      desarrollo a lo largo de nuestro
+(GW)                                                                          territorio.
+Inversión
+necesaria       8              45        150          220   270         330
+acumulada
+(MUSD)
+
+                                                                              ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 12
+Esta oportunidad se materializará en 3 oleadas distintivas
+La primera oleada serán consumos domésticos                                                      Desarrollo proyectado de aplicaciones del hidrógeno verde
+de gran escala con demanda establecida.                                                          Nivel de incertidumbre, tamaño de mercado y año de break-even de algunas de las
+Las oportunidades de más corto plazo son el                                                      aplicaciones del hidrógeno en Chile. No considera precio al carbono.
+reemplazo      de    amoniaco      importado    por                                              Fuente: McKinsey & Company.
+producción local y el reemplazo del hidrógeno
+gris utilizado en las refinerías del país. Luego, el                                                                        Oleada 3                    Doméstico            Internacional
+uso en transporte de pasajeros y carga pesada de
+
+
+
+
+                                                       Nivel de incertidumbre en su desarrollo
+larga distancia se volverá atractivo.                                                                                                                Exportación
+
+
+
+
+                                                                                        Alto
+                                                                                                              Oleada 2                               de hidrógeno*
+                                                                                                                                                                                  Amoniaco para
+En la segunda mitad de la década veremos más                                                                                                                                      barcos de ruta
+usos de transporte y el inicio de la exportación.                                                                                                                                 nacional
+                                                                                                   Oleada 1
+Una producción de hidrógeno más competitiva                                                                                    Camiones
+desplazará a combustibles líquidos en el                                                                                  mineros (CAEX)
+                                                                                                                                                                                  Metanol verde y
+transporte terrestre en nuevas aplicaciones,                                                                                                                         SUV          combustibles
+como en la minería, y a combustibles gaseosos                                                                                                                                     sintéticos abren
+en redes de distribución. En paralelo, se abre una                                                              Buses de                      Camiones
+                                                                                                                                              medianos de ruta                    oportunidades en
+clara oportunidad de exportación de hidrógeno y                                                                     larga                                                         2035+
+                                                                                                               autonomía
+sus derivados a mercados internacionales.
+                                                                                                                          Camiones
+                                                                                                                                                   Inyección en              0,5 Mton de H2
+En el largo plazo, se abrirán nuevos mercados                                                                            pesados de                redes de gas
+de exportación para escalar.                            Bajo                                                                   ruta                                                equivalente
+Los sectores del transporte marítimo y aéreo                                                                  Amoniaco
+podrán      ser     descarbonizados    mediante                                                                                                                               5 Mton de H2
+                                                                                                                                              Exportación
+combustibles derivados del hidrógeno, tanto en                                                                                                de amoniaco                          equivalente
+                                                                                                                     Uso en refinerías
+rutas locales como internacionales. Además a
+medida que otros países se descarbonicen,                                               2023                                       2028                                    2033
+crecerán los mercados de exportación.                                                                                 Año de break-even estimado            *: Incluye exportación de metanol
+                                                                                                                                                              verde y combustibles sintéticos.
+
+                                                                                                                                                      ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 13
+Una nueva identidad
+productiva para Chile
+Chile puede transitar de ser un país históricamente
+basado en recursos no renovables a una nación que
+añade un valor verde a sus exportaciones y produce
+los energéticos limpios que el mundo necesita para
+descarbonizarse.
+
+Tenemos que actuar hoy.
+El potencial renovable del país permitiría la producción de
+cobre verde, energéticos limpios y otras exportaciones con
+baja huella de carbono para abatir emisiones de gases de
+efecto invernadero en el mundo. En Chile, se estima que hasta
+el 25% de sus emisiones podrían ser mitigadas mediante el uso
+de hidrógeno verde al 2050.
+
+Actuaremos de manera decidida y eficaz, para
+levantar una nueva industria que sea motor de
+crecimiento en nuestro país.
+Aprovechar el potencial del hidrógeno verde en Chile significa
+generar valor local en nuestras regiones y crear al menos
+100.000 nuevos empleos, más sofisticados y satisfactorios,
+durante las próximas décadas.
+
+
+
+
+                                                                  Mural en Providencia, Región Metropolitana
+
+                                                                 ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 14
+Altiplano, Región de Antofagasta
+
+
+
+
+                                                   3
+                                   Nuestra estrategia
+                                     Ambición de industria limpia
+Puerto de San Antonio, Región de Valparaíso
+
+                                              Adelantaremos la implementación
+                                              de aplicaciones locales para luego
+                                              acceder a mercados de exportación
+                                              Las tecnologías limpias no solo necesitan competitividad
+                                              Tal como Chile ha experimentado con las energías renovables y la
+                                              electromovilidad, el hidrógeno verde requerirá coordinación público-privada
+                                              temprana para disminuir barreras y facilitar su desarrollo.
+
+                                              La exportación a escala requiere un ímpetu local
+                                              Para entrar de manera eficiente y con alta probabilidad de éxito a
+                                              mercados globales es necesario antes generar capacidades, escala e
+                                              infraestructura.
+                                              Crear un ecosistema de hidrógeno doméstico permitirá que más valor
+                                              pueda ser captado por talento y empresas locales.
+
+                                              Un inicio tardío significaría renunciar a oportunidades
+                                              El mercado global del hidrógeno requerirá contratos de largo plazo para
+                                              reducir riesgos de la inversión en la oferta y la demanda. Los competidores
+                                              de Chile ya comenzaron una carrera por capturar estos contratos con los
+                                              países que serán importadores.
+                                              Establecer relaciones y contratos de largo plazo con países importadores,
+                                              en paralelo al crecimiento de la industria local, permitirá que Chile capture
+                                              una cuota relevante del mercado global del hidrógeno y sus derivados.
+
+
+
+
+                                                  2020                       2025                        2030
+                                                Establecer             Activar la industria           Conquistar
+                                                 las bases         y desarrollar la exportación    mercados globales
+
+                                                                                   ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 16
+Etapa I: 2020-2025
+Activar la industria doméstica y desarrollar la exportación
+Anticiparemos el
+despliegue del hidrógeno                                   Mercado total
+                                      Aplicación           potencial1                     2025                   2030                       2035                    2040
+verde en 6 aplicaciones                                    (BUSD a 2050)
+prioritarias en Chile para
+construir un mercado              1   Uso en refinerías      0,2
+local.
+Se iniciará una industria local
+                                  2   Amoniaco doméstico       0,5
+mediante       esfuerzos      y
+regulación que incentiven la
+producción y que fomenten la          Camiones mineros
+                                                                         1,6
+                                  3   (CAEX)
+demanda de este elemento
+limpio y sus derivados. El foco
+estará en las aplicaciones que        Camiones pesados
+                                  4   de ruta                             2,0
+se encuentren más cerca de
+mercado y/o que presenten
+                                      Buses de larga
+una    demanda     establecida,   5                                0,8
+                                      autonomía
+concentrada y de gran escala.
+Así, se generará conocimiento,        Inyección en redes
+                                  6                          0,3
+escala, infraestructura y             de gas (hasta 20%)
+cadenas de suministro que
+permitirán a Chile acceder a                                                    Break-even buscado en la         Break-even potencial sin             Curva de adopción hasta una
+                                                                                Estrategia e inicio de pilotos   esta Estrategia                      transformación completa
+mercados de exportación.
+                                                                                1. Ventas anuales. Considera la transición total de cada aplicación al uso de hidrógeno verde.
+                                                                                Fuente: Basado en análisis de McKinsey & Company.
+
+
+                                                                                                                              ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 17
+Etapas II y III: 2025-2030 y 2030+
+Escalar para conquistar mercados globales
+Etapa II: Apalancaremos la
+experiencia local para entrar              Tamaño de mercado estimado para exportaciones chilenas
+con fuerza en mercados                     (BUSD)
+internacionales.                           Fuente: McKinsey & Company.
+                                                                                Europa          China           Japón/Corea                EEUU           LATAM
+Se   levantará    una   industria de
+producción y exportación de amoniaco       Tamaño total        0,4       2,5              11                  16                     19                    24
+verde mediante la atracción y                                                                                  5                     5                      5
+promoción de consorcios de escala de                                                      4
+                                            1   Exportaciones
+GW. Además, se establecerán acuerdos
+                                                de amoniaco
+para acelerar el desarrollo de la                                         2
+                                                verde
+exportación de hidrógeno.
+                                                               0,4
+Etapa III: Explotaremos las                                    2025      2030            2035                2040                  2045                   2050
+sinergias y economías de escala
+                                                                                                                                                           19
+para avanzar como proveedor
+                                                                                                                                     14
+global de energéticos limpios.
+                                                                                                               11
+A medida que otros países refuercen        2 Exportaciones
+sus iniciativas de descarbonización y        de hidrógeno                                 7
+se desarrollen nuevas tecnologías, el        verde1
+mercado de exportación escalará y se                            0        0,5
+diversificará. Las nuevas aplicaciones
+incluirán el uso amoniaco verde en el                          2025      2030            2035                2040                  2045                   2050
+transporte       marítimo     y      los                                                        1: Incluye exportaciones de metanol verde y combustibles sintéticos.
+combustibles sintéticos en la aviación.
+
+                                                                                                                    ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 18
+Nuestra ambición
+                                                                          El hidrógeno
+                                                                        verde más barato
+                                                            Líder          del planeta             Líder
+                                                         exportador                          productor global
+                                                          global de                            de hidrógeno
+     5                 5               200            hidrógeno verde                            verde por
+    BUSD              GW               kton/año       y sus derivados                           electrólisis
+
+
+
+
+     Top 1                         Producción en al        2,5               <1,5                     25
+inversiones en                     menos 2 polos de      BUSD/año            USD/kg                    GW
+  hidrógeno                        hidrógeno verde
+   verde en       Capacidad de         en Chile
+Latinoamérica      electrólisis
+                 construida y en
+                   desarrollo
+
+
+
+                                                                               ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 19
+                                               4  Pilares
+                                         Apuntalando la acción
+
+
+
+
+Torres del Paine, Región de Magallanes
+             Política orientada                                         Ruta eficiente a un
+                     por misión                                         país cero emisiones
+
+
+
+
+                                  Nuestros pilares
+                                      Estos pilares nacidos de la
+                                  participación de múltiples actores                  Hidrógeno verde
+  Uso equilibrado de
+                                  públicos y privados establecen un                   como motor de
+recursos y territorio
+                                   marco coherente bajo el que se                     desarrollo local
+                                   desplegarán los esfuerzos para
+                                  desarrollar el hidrógeno verde en
+                                                 Chile.
+
+
+
+
+           Nueva economía de                                           Apertura
+            exportación limpia                                         internacional
+
+
+
+                                                                           ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 21
+Política orientada por                                 Uso equilibrado                                       Nueva economía
+misión                                                 de recursos y territorio                              de exportación limpia
+El Estado será un facilitador, coordinador e           El desarrollo de la industria del hidrógeno será      El hidrógeno habilitará una nueva economía
+impulsor de la misión de establecer esta nueva         coherente con su entorno social y ambiental,          chilena de exportación basada en energéticos
+industria con esfuerzos multisectoriales.              incorporando mejores prácticas y diálogo.             limpios y productos con baja huella de carbono.
+
+El sector público tendrá un rol clave en identificar   La institucionalidad de Chile velará por la           El mundo requiere de minerales, alimentos,
+y resolver barreras, reduciendo incertidumbre          seguridad     de    las   personas    y   nuestro     materia prima y manufacturas verdes para
+regulatoria, financiera y técnica para lograr los      medioambiente, además de articular con las            establecer una economía global baja en carbono.
+objetivos de largo plazo planteados, propendiendo      comunidades locales y resguardar el respeto a los     El hidrógeno verde permitirá que el sector
+a un crecimiento limpio, inteligente e inclusivo. La   instrumentos de planificación territorial, para       exportador de Chile se diferencie en los mercados
+iniciativa y capacidades privadas -empresas,           lograr una transición energética y económica justa    internacionales    con   productos     limpios     y
+academia y asociaciones- se basarán en estos           y equilibrada. En especial, se trabajará para que     competitivos. Al igual que hace más de 100 años
+fundamentos para ser protagonistas en desarrollar      esta nueva industria derive en una mejora a la        el salitre chileno estaba en el corazón de la
+las tecnologías, los negocios, las inversiones y los   calidad de vida de la ciudadanía, cuidando            alimentación del mundo, ahora su amoniaco verde
+proyectos de hidrógeno verde que permitan              siempre el uso responsable del agua y                 habilitará una producción de fertilizantes de baja
+escalar un mercado eficiente y competitivo local y     fomentando conceptos de economía circular.            huella de carbono para la agricultura de este siglo.
+de exportación.                                                                                              Y, por primera vez en su historia, Chile podrá ser
+                                                                                                             exportador de energía al mundo.
+
+
+ Estado involucrado: Impulsará y coordinará la          Calidad de vida: Esta industria se desarrollará de    Vocación exportadora: Chile suministrará los
+ interacción de variados sectores, dando señales        manera armónica con su entorno, velando en            productos limpios para una transición energética
+ claras a la iniciativa privada y velando por que el    particular por un uso responsable del agua junto      global,  desde     minerales    verdes    hasta
+ país capture valor en esta nueva industria.            a las comunidades y actividades cercanas.             combustibles sintéticos.
+
+
+
+                                                                                                                       ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 22
+Ruta eficiente                                          Hidrógeno verde como                                      Apertura
+a un país cero emisiones                                motor de desarrollo local                                 internacional
+Nuestro país está comprometido con la                   Los proyectos y la industria de este                      La apertura internacional desarrollará la
+transición a la carbono-neutralidad, en la que el       combustible limpio generarán polos de                     economía del hidrógeno verde nacional y global
+hidrógeno tendrá un rol protagónico.                    inversión, innovación y actividad local.                  a la velocidad que el planeta requiere.
+
+El uso directo de hidrógeno verde, así como de          Los actores públicos y privados en Chile están            Nuestra     transparencia,   marco     institucional
+sus derivados como el metanol, el amoniaco y los        colaborando estrechamente para desarrollar el             reconocido, reglas claras de inversión y apertura
+combustibles sintéticos, en sectores como en el         hidrógeno verde en el país. El Estado continuará          comercial han permitido que en Chile se
+transporte terrestre, marítimo y aéreo, minería,        velando por que la inversión y la innovación              desarrollen sectores económicos competitivos
+industrias y en el sector eléctrico, será necesario     desarrolladas produzcan valor en las localidades          internacionalmente que lo vuelven atractivo para
+para que Chile experimente la transición desde los      donde se inserten los proyectos y signifiquen             la integración de tecnologías limpias. Esta misma
+combustibles fósiles. Los esfuerzos del país se         reales     oportunidades   de    formación    de          vocación habilitará un rápido escalamiento de la
+enfocarán en integrar el hidrógeno verde y sus          capacidades y empleo nacional, respetando las             industria del hidrógeno verde, la que requiere de
+derivados donde mitiguen emisiones de manera            necesidades, anhelos y fortalezas de los                  experiencias, tecnologías e inversiones. En las
+eficiente, considerando que otras soluciones            territorios. Asimismo, el Estado promoverá las            primeras etapas se requerirá de un nuevo
+energéticas pueden ser más costo-efectivas en           aplicaciones del hidrógeno verde que produzcan            paradigma de cooperación-competencia con
+otras aplicaciones.                                     co-beneficios locales.                                    países que también aspiran a ser exportadores,
+                                                                                                                  visión que se denomina “coopetición”.
+
+
+ Complementariedad: El   El hidrógeno
+                            hidrógeno habilitará
+                                        habilitará la    Entorno partícipe:
+                                                                      partícipe: Los Los proyectos
+                                                                                           proyectos y las  las    Un buen
+                                                                                                                       buen socio:
+                                                                                                                             socio: Chile
+                                                                                                                                     Chilecolaborará
+                                                                                                                                           colaborará ampliamente,
+                                                                                                                                                       ampliamente
+ carbono-neutralidad    junto   a otras soluciones.
+ carbono-neutralidad junto a otras soluciones.     La    aplicaciones     se   integrarán  armónicamente
+                                                         aplicaciones se integrarán armónicamente a los       a    incluso con  futuros competidores,  para escalar
+                                                                                                                   con actores públicos y privados internacionales
+ La
+ eficiencia energética competitiva deberá deberá
+      eficiencia energética    competitiva    primar     los   territorios,   privilegiando  la  creación   de
+                                                         territorios, privilegiando la creación de valor local.    el mercado  global del hidrógeno
+                                                                                                                   para escalar el mercado global del hidrógeno.
+ primar cuando
+ cuando          sea implementar.
+          sea posible posible implementar.               valor local.
+
+
+
+                                                                                                                            ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 23
+Roqueríos en Viña del Mar, Región de Valparaíso
+
+
+
+
+                                                          5
+                                                  Plan de acción
+                                                    Compromiso de todos
+ Fomento al mercado                                Lanzaremos una ronda de financiamiento para apalancar
+                                                   proyectos de hidrógeno verde por 50 MUSD.
+                                                   Se asistirán proyectos tempranos y competitivos de producción y uso de
+ doméstico y a la                                  hidrógeno verde cuya implementación permita reducir los costos en Chile y
+                                                   tender a una producción a menos de 1,5 USD/kgH2 en 2030, mediante un apoyo
+                                                   financiero para cerrar brechas de costo. Esto anticipará el crecimiento de la
+ exportación                                       industria y habilitará la formación de un mercado funcional. Este financiamiento
+                                                   apoyará empresas y consorcios nacionales e internacionales para invertir en
+                                                   proyectos escalables y replicables de hidrógeno verde en Chile.
+El hidrógeno verde está en una etapa incipiente
+en nuestro país, con proyectos piloto y            Estableceremos una mesa público-privada para discutir la
+demostrativos todavía en desarrollo. Existen       ruta a un precio al carbono y a impuestos que reflejen de
+aún desafíos para escalar la producción y las      mejor manera las externalidades de los combustibles.
+aplicaciones. Las asimetrías de información,       Se convocarán actores que representen las diversas visiones en torno a la fijación
+pocos demandantes y oferentes que no están         de mecanismos, precios, momento y gradualidad, para acordar una hoja de ruta
+coordinados, riesgos tecnológicos y financieros,   dirigida a reflejar adecuadamente el costo social de utilizar combustibles fósiles.
+así como brechas de costo con los                  Esto emparejará las condiciones en las cuales competirán los nuevos energéticos
+combustibles fósiles son las principales           con los combustibles tradicionales. Se considerarán los estudios y las
+barreras percibidas. Las iniciativas dirigidas a   recomendaciones internacionales más recientes, como aquellas del FMI y la
+apoyar a los proyectos tempranos de hidrógeno      OCDE, para avanzar en un plazo definido a alcanzar las metas del Acuerdo de
+verde y a mejorar su competitividad contra los     París sobre el cambio climático.
+combustibles    fósiles  van     a   iniciar  el
+funcionamiento de un mercado, además de            Desplegaremos una diplomacia del hidrógeno verde para
+reducir diversas incertidumbres y habilitar        posicionar internacionalmente a Chile como fuente de
+economías de escala y de ámbito.
+                                                   combustibles limpios.
+                                                   Se utilizará la amplia red de acuerdos comerciales de Chile, su participación en
+                                                   plataformas internacionales y sus relaciones diplomáticas con 171 Estados, para
+                                                   movilizar recursos humanos y materiales que aceleren el desarrollo del hidrógeno
+ Soldador en La Pintana, Región Metropolitana
+                                                   verde en el país.
+
+
+                                                                                               ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 25
+ Normativa, seguridad                               Desarrollaremos la regulación y normativa del hidrógeno
+                                                    verde para resguardar aspectos de seguridad y dar certeza a
+                                                    los inversionistas.
+ y pilotajes                                        Se ejecutará un plan coordinado de desarrollo normativo entre todos los servicios
+                                                    públicos con competencia regulatoria sobre la cadena de valor del hidrógeno. Esto
+                                                    facilitará el desarrollo ágil de proyectos, aplicaciones domésticas y la industria de
+                                                    exportación. Se trabajará de manera coordinada con el sector privado, propendiendo
+La regulación es un pilar fundamental para la
+                                                    a la estandarización internacional.
+construcción de una industria. Establecer
+tempranamente un régimen normativo y de
+fiscalización   adecuado      para     la  futura   Estableceremos un equipo operativo para acompañar la
+masificación de la producción, manejo y uso de
+hidrógeno permite velar por la seguridad de los     tramitación de permisos y el desarrollo de pilotajes de
+operarios, usuarios y de las personas en general,   hidrógeno verde y sus derivados.
+junto con la protección del medio ambiente,         Se coordinará a los servicios públicos de múltiples sectores para acompañar a los
+bienes e infraestructura. Adicionalmente, una       proyectos y las nuevas aplicaciones del hidrógeno en sus procesos de pilotaje y
+normativa clara entregará certidumbre a los         desarrollo. Esto reducirá la incertidumbre de las iniciativas privadas, generará
+desarrolladores      e     inversionistas    para   aprendizajes, resolverá fallas de coordinación y resguardará una introducción segura
+implementar proyectos y aplicaciones. También       de nuevas tecnologías.
+es necesario que existan mecanismos de pilotaje
+de soluciones y de desarrollo de proyectos          Revisaremos la regulación y la infraestructura del gas natural
+mediante autorizaciones especiales mientras no
+exista una normativa para usos específicos.
+                                                    para promover la introducción de cuotas de hidrógeno verde.
+                                                    Se estudiará la capacidad de la infraestructura existente de gas natural en Chile y se
+                                                    realizará una revisión de experiencia internacional para discutir la implementación
+                                                    segura de un mecanismo gradual de cuotas de hidrógeno verde en las redes de gas.
+                                                    Esto escalaría la industria doméstica de este combustible limpio, reutilizaría la
+                                                    infraestructura existente y complementaría el rol del gas natural como energético
+                                                    de transición.
+ Mina Chuquicamata, Región de Antofagasta
+
+
+
+                                                                                                ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 26
+Desarrollo social                                   Aseguraremos la participación temprana y continua de las
+                                                    comunidades cercanas a proyectos.
+y territorial                                       Se articulará el diálogo entre desarrolladores de proyectos de hidrógeno y las
+                                                    comunidades cercanas, a través capacitación y fortalecimiento técnico de los
+                                                    actores, además de facilitar acuerdos entre las partes. Se ofrecerá también la
+                                                    posibilidad de explorar mecanismos de asociatividad entre comunidades y
+                                                    desarrolladores para fomentar desarrollo de proveedores locales, capacidades y
+El desarrollo sostenible de una nueva industria     mejores prácticas en gestión de los intereses territoriales y comunitarios.
+debe considerar una adecuada integración en el
+territorio, tomando en cuenta los intereses,        Promoveremos el uso de hidrógeno verde para
+actividades, grupos, imaginarios colectivos,        complementar o reemplazar la generación eléctrica basada
+necesidades, anhelos y fortalezas presentes en
+el territorio. El potencial de Chile en hidrógeno   en combustibles fósiles en sistemas eléctricos aislados y
+verde abre la puerta a un crecimiento orgánico y    medianos.
+descentralizado del país, si es que los proyectos   Se evaluarán y explorarán las alternativas de generación y almacenamiento eléctrico
+efectivamente se insertan en las comunidades y      utilizando hidrógeno verde en sistemas no conectados al Sistema Eléctrico Nacional,
+regiones. Para esto, el diálogo temprano y          con el fin de impulsar la integración de energías renovables en ellos. En específico,
+cercano entre los grupos de interés es crucial,     reduciremos barreras regulatorias y de mercado a la inclusión de soluciones de
+además de la exploración y promoción de las         hidrógeno verde en la planificación y expansión de sistemas eléctricos medianos.
+múltiples alternativas para asociarse directa e     Evaluaremos las oportunidades y desafíos del hidrógeno
+indirectamente y así compartir valor. Además,       verde en las políticas, ordenamientos y planes territoriales.
+explorar los nuevos usos del hidrógeno para         Se analizarán las consideraciones de incluir la cadena de valor del hidrógeno verde
+reducir contaminación en diversos territorios       en los procesos de elaboración de políticas y planes territoriales en diversas
+permitirá un desarrollo más eficiente e integral    regiones. Esto facilitará una adecuada inserción territorial y un uso racional de
+de nueva infraestructura y aplicaciones.            nuestros suelos y recursos naturales, considerando sinergias e interacciones con
+                                                    otras actividades y requerimientos humanos, tal como el uso de agua.
+
+San Pedro de Atacama, Región de Antofagasta
+
+
+                                                                                                ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 27
+ Formación de                                        Conectaremos a los actores de la industria, la academia y
+                                                     los centros de formación, para identificar brechas y formar
+                                                     las capacidades nacionales requeridas por la industria.
+ capacidades e                                       Se levantarán junto al sector privado las competencias y habilidades requeridas
+                                                     en las etapas de la cadena de valor del hidrógeno verde. Esto permitirá articular,
+
+ innovación                                          de forma coordinada, la provisión de dichas capacidades por las instituciones de
+                                                     educación nacionales existentes. Prepararnos a tiempo mejorará las perspectivas
+                                                     de un empleo sofisticado, satisfactorio y de calidad.
+Un cuerpo de especialistas y técnicos locales con
+conocimiento      y    capacidades      adecuadas    Construiremos una hoja de ruta en materia de I+D junto a la
+fortalecerá el ecosistema local del hidrógeno.       industria, para resolver desafíos de implementación local.
+Esto      fomentará       el     desarrollo    de    Se elaborará, en colaboración con el adjudicatario del Instituto de Tecnologías
+emprendimientos, negocios, innovaciones y            Limpias –plataforma de innovación con financiamiento público de hasta 193
+empleos productivos. Dado su rol articulador y       MUSD-, otros actores nacionales de innovación y el sector privado, una hoja de
+estratégico, el Estado está llamado a fomentar       ruta que determine hitos, pilotos y actividades necesarias para desarrollar nuevo
+las actividades de educación, investigación,         conocimiento necesario. Esto permitirá atender las demandas derivadas del
+desarrollo e innovación asociadas al hidrógeno       impulso de un sector de punta tecnológicamente, desafiante y dinámico.
+verde, con especial énfasis en aquellas
+aplicaciones de interés nacional. Transitar por      Crearemos un grupo de trabajo con empresas del Estado
+los procesos de aprendizaje y desarrollo de          para acelerar la adopción del hidrógeno verde en ellas y
+nuevo conocimiento en el sector nos permitirá
+contar con ventajas competitivas locales únicas.     sus proveedores.
+Esto permitirá sofisticar la oferta de productos y   Se determinarán las condiciones y acciones necesarias para incorporar
+servicios local, así como convertir a Chile en un    hidrógeno verde en los procesos y aplicaciones donde tenga oportunidades de
+exportador de conocimiento en torno al               reducir emisiones de manera costo-efectiva. Esto fortalecerá la competitividad y
+hidrógeno verde.                                     las capacidades de empresas públicas, como ENAP y Codelco, en un mundo que
+                                                     demanda crecientemente materiales, productos y combustibles limpios.
+
+Telescopio ESO en Cerro Paranal, Región de Atacama
+
+
+                                                                                                ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 28
+             Ministerio de Energía                        Consejo Nacional
+             División de Combustibles y                   del Hidrógeno
+             Nuevos Energéticos
+                                                          Verde
+
+             Tendrá la responsabilidad de realizar el seguimiento de esta
+
+
+Gobernanza
+             estrategia, coordinar la ejecución del plan de acción y
+             ejecutar la actualización de este proceso cada 3 años.
+
+               Coordinará mediante
+
+
+
+
+                   Misión             Plataforma público-                     Misión
+                  Nacional             privada de diálogo                 Internacional
+             Acelerar el despliegue       Conectar con la               Atraer inversiones e
+                de proyectos y          industria, academia,                impulsar la
+                 aplicaciones          sociedad civil y socios             formación de
+                                          internacionales                   consorcios
+
+                                                      Parque Nacional Nahuelbuta, Región de la Araucanía
+
+                                               ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 29
+Fomento al mercado y                            Normativa,                              Desarrollo social y                     Formación de
+a la exportación                                seguridad y                             territorial                             capacidades e
+                                                pilotajes                                                                       innovación
+Construir un Acuerdo Público-Privado para el    Modificar el Decreto con Fuerza de      Difundir conocimiento del hidrógeno     Capacitar a diversos grupos de
+Hidrógeno en Minería y el Transporte junto a    Ley 1 de 1979 y el Decreto Ley 2.224    verde al público general con foco en    funcionarios públicos como
+los actores públicos y privados relevantes      para incluir al hidrógeno como          aspectos ambientales y de               reguladores, evaluadores,
+que deban definir diagnósticos y acciones       energético y así dar potestad           seguridad para generar confianza        fiscalizadores, entre otros, sobre
+específicas en estos ámbitos.                   reglamentaria al Ministerio de          en su producción y uso.                 hidrógeno y sus implicancias para
+                                                Energía.                                                                        sus ámbitos de acción.
+Promover iniciativas comerciales y de estudio                                           Analizar y fomentar las alternativas
+conjuntas con países que se posicionan          Difundir sobre el proceso de            de reconversión y/o reutilización de    Elaborar un plan de preparación
+como importadores de hidrógeno para             solicitud de autorización de            infraestructura de centrales            para equipos de respuesta ante
+explorar proyectos de exportación-              proyectos especiales de la              termoeléctricas a carbón para la        emergencias.
+importación.                                    Superintendencia de Electricidad y      producción y/o utilización de
+                                                Combustibles, así como sobre los        hidrógeno verde.                        Difundir horizontalmente en la
+Intercambiar experiencia y formular             procedimientos y condiciones para                                               industria y academia los avances y
+iniciativas colaborativas para potenciar el     realizar pilotajes de diversas          Revisar la normativa de uso de          lecciones aprendidas en I+D
+hidrógeno verde en Chile mediante acuerdos      aplicaciones.                           suelos aplicable a los procesos del     aplicada a nivel nacional a través de
+bilaterales y multilaterales.                                                           hidrógeno y sus permisos asociados      programas y consorcios.
+                                                Revisar y actualizar la normativa del   para identificar y reducir
+Establecer sistemas de certificación            mercado eléctrico para permitir la      potenciales barreras al desarrollo      Identificar y conectar a los actores
+internacional de origen y huella de carbono     participación de las tecnologías del    de esta.                                que desarrollan actividades de
+del hidrógeno verde en Chile.                   hidrógeno para proveer distintos                                                investigación y desarrollo para
+                                                servicios, incluyendo energía,          Estudiar las necesidades de             fomentar la innovación en
+Analizar, reservar y entregar en concesión      capacidad y servicios                   infraestructura específicas a cada      soluciones que aborden desafíos
+terrenos fiscales de buenas condiciones para    complementarios.                        territorio para identificar             locales prioritarios para el país.
+el desarrollo de proyectos de hidrógeno                                                 oportunidades de desarrollo local.
+verde y derivados.
+
+
+
+
+                                                                                                                          ESTRATEGIA NACIONAL DE HIDRÓGENO VERDE | 30
+Estrategia Nacional de
+Hidrógeno Verde
+

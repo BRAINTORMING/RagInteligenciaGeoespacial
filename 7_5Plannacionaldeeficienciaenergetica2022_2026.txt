@@ -1,0 +1,1760 @@
+PLAN
+NACIONAL
+DE EFICIENCIA
+ENERGÉTICA
+2022-2026
+                                                                                                                      PLAN NACIONAL
+                                                                                                   DE EFICIENCIA ENERGÉTICA
+                                                                                                                                 2022-2026
+                                                                                                                 Agradecimientos públicos
+
+                                                                        El Ministerio de Energía agradece a todos los inscritos en el proceso
+Publicado por el Ministerio de Energía, Gobierno de Chile               participativo por su invaluable contribución a la elaboración de este
+Alameda 1449, Edificio Santiago Downtown II, Piso 13                    primer Plan Nacional de Eficiencia Energética. Además, se agradece
+Santiago, Chile                                                         a todos los organismos públicos relacionados con las materias
+Noviembre, 2021                                                         tratadas en este plan, entre ellos los Ministerios de Transporte y
+                                                                        Telecomunicaciones, Medio Ambiente, Vivienda y Urbanismo, Minería
+                                                                        y Hacienda, quienes además serán clave en la implementación de las
+Edición general:                                                        medidas y la concreción de las metas propuestas en este documento.
+
+Gabriel Prudencio F. – Francisco Martínez-Conde D. – Marcelo Padilla    Se agradece el trabajo conjunto y la colaboración permanente con
+V. – Fernanda Bradford S.                                               los distintos organismos del sector, la Superintendencia de Electricidad
+                                                                        y Combustibles, la Comisión Nacional de Energía y la Agencia de
+Diseño: Patricia Escobar A.                                             Sostenibilidad Energética, quienes han sido clave en el desarrollo de la
+Imágenes:                                                                                                eficiencia energética de nuestro país.
+
+Jonathan Sepúlveda / Unsplash: Fernando Rodrigues, Tomás González,      Finalmente, se agradece el apoyo entregado por el Banco
+Jairo Gallegos, USGS, Vinícius Henrique Photography, Benjamín           Interamericano de Desarrollo y por la consultora E2BIZ, que por medio
+Gremler, Willian Justen de Vasconcellos, Gonzalo Gallardo, Nicolás      del proyecto “Apoyo a la Modernización Energética con Sello Ciudadano
+Gutiérrez, Eduardo Cabrera, Bruna Fiscuk, David Vives, Juan Gálvez,     – Apoyo al Proyecto de Ley de Eficiencia Energética” colaboraron con
+Matias Caceres, Caio Silva, Bruno Fernandez, Franco Salcedo, Ignacio                                                 el desarrollo de este plan.
+Amenábar, Mauro Mora, Naomi Hébert, Maggie Yap, Nathana Rebouças,       Este documento es una versión preliminar para un proceso de consulta
+Jaume Galofré, Antonio Martinez, Jared Verdi, Rai Singh Uriarte, Olga   ciudadana. La versión definitiva será publicada una vez que se recojan
+Stalska. Pexels: Leonardo Cardozo Galves.                                                    e incorporen las observaciones de la ciudadanía.
+Los contenidos de este Informe pueden ser reproducidos en                                                Participa en https://energia.gob.cl/
+cualquier medio citando la fuente.
+                                                                                                   Visítanos en https://energia.gob.cl/ley-ee
+                                                                                                                                                                                                                 Plan Nacional de Eficiencia Energética | 2022 - 2026
+                                                                                                                                 SECTORES PRODUCTIVOS (7 medidas)
+PLAN NACIONAL
+DE EFICIENCIA                                                                                                                                              4%
+                                                                                                      Medidas principales: Implementación de                      Reducir en un 4% la intensidad energética de
+                                                                                                      sistemas de gestión de energía, promoción de                los grandes consumidores al 2026, respecto
+                                                                                                                                                                  al año 2021.
+                                                                                                      la electrificación de usos térmicos y motrices
+
+
+ENERGÉTICA
+                                                                                                      en la industria y minería, fortalecimiento de
+                                                                                                                                                           25%
+                                                                                                                                                                  Reducir en un 25% la intensidad energética
+                                                                                                      la formación de especialistas, difusión de                  de los grandes consumidores al 2050,
+
+
+
+2022-2026
+                                                                                                      resultados y beneficios.                                    respecto al año 2021.
+
+
+
+
+                                                                                                                                         SECTOR TRANSPORTE (7 medidas)
+
+   OBJETIVO                                                                                           Medidas principales: Establecimiento de
+                                                                                                                                                           x2
+                                                                                                                                                                  Duplicar el rendimiento de los vehículos
+   El Plan proporciona un marco estratégico para el desarrollo de la eficiencia energética            estándares de eficiencia energética para                    livianos nuevos que entran al país al año
+                                                                                                      vehículos, impulso a la electromovilidad                    2035, respecto del año 2019.
+   de nuestro país y de esta manera, materializar el potencial de ahorro energético que permita
+   alcanzar la carbono neutralidad al año 2050, en línea con las políticas que ha desarrollado        y fortalecimiento de la formación de
+                                                                                                                                                           x4
+                                                                                                                                                                  Cuadruplicar el rendimiento de los vehículos
+   hasta el momento el Ministerio de Energía y el Estado en general en materia de sostenibilidad.     especialistas.                                              livianos nuevos que entran al país al 2050,
+                                                                                                                                                                  respecto del año 2019.
+
+
+                                                                                                                                SECTOR EDIFICACIONES (10 medidas)
+
+   METAS:                                                                                             Medidas principales: Actualización de
+                                                                                                                                                           30%
+                                                                                                                                                                  Las nuevas viviendas lograrán un ahorro
+   Reducir la intensidad energética respecto del año 2019 en un:                                      los estándares de eficiencia energética,                    promedio de 30% en su demanda de energía
+                                                                                                      impulso a la renovación energética y                        térmica al año 2026, respecto del año 2021.
+                                                                                                      reacondicionamiento térmico, calificación
+                                                                                                                                                           50%
+                                                                                                                                                                  Las nuevas edificaciones lograrán un ahorro
+                                                                                                      energética de edificaciones, habilitación de
+                                                                                                                                                                  promedio de 50% en su demanda de energía
+                                                                                                      la energía distrital y fortalecimiento de la
+                                                                                                                                                                  térmica al año 2050, respecto del año 2021.
+                                                                                                      formación de especialistas.
+
+
+
+                                                                                                                                        SECTOR CIUDADANÍA (8 medidas)
+                                                                                                                                                                  El 70% de las principales categorías de
+                                                                                                      Medidas principales: Difusión de información
+                                                                                                                                                           70%
+Medidas y metas sectoriales:
+                                                                                                                                                                  artefactos y equipos que se venden en
+                                                                                                      ciudadana, fortalecimiento del programa                     el mercado corresponden a equipos
+                                                                                                      educativo, actualización y ampliación de                    energéticamente eficientes al año 2035.
+El Plan se ha dividido en 4 sectores, siendo estos: Sectores Productivos, Transporte, Edificaciones   etiquetado y estándares de artefactos.
+                                                                                                                                                           100%
+                                                                                                                                                                  El 100% de las principales categorías
+y Ciudadanía. Para cada uno de estos sectores se han definido un conjunto de medidas y de metas                                                                   de artefactos y equipos que se venden
+específicas a alcanzar.                                                                                                                                           en el mercado corresponden a equipos
+                                                                                                                                                                  energéticamente eficientes al año 2050.
+
+                                                 4                                                                                                     5
+6
+7
+
+
+
+
+    Plan Nacional de Eficiencia Energética | 2022 - 2026
+                                                                                                                Plan Nacional de Eficiencia Energética | 2022 - 2026
+Hoy nos convoca un desafío urgente, frenar el             una Ley de Eficiencia Energética (N°21.305)
+cambio climático. Es por esto que en Chile nos            aprobada en febrero de 2021. La cual nos
+comprometimos a ser un país carbono neutral               permitirá al 2030 tener una reducción de
+al 2050.                                                  la intensidad energética del 15%; un ahorro
+                                                          acumulado del orden de $20 mil millones de
+El desafío es grande desde el sector de Energía,
+                                                          dólares, y una reducción de aproximadamente
+ya que dos tercios de las emisiones mundiales
+                                                          44 millones de toneladas de CO2 acumuladas.
+corresponden a este sector. Por esto estamos
+actuando rápido, con una serie de estrategias             Desde la publicación de esta ley, hemos
+e iniciativas que nos permitan alcanzar esta              desarrollado este primer Plan Nacional de
+meta.                                                     Eficiencia Energética, que oriente la acción de
+                                                          los distintos sectores para los próximos 5 años
+Nuestras   principales     medidas   son:   cierre
+                                                          en un uso responsable de su energía, y que nos
+de las centrales a carbón y reemplazo por
+                                                          permita lograr nuestras metas en esta materia.
+energías renovables; desarrollo de la industria
+del   hidrógeno   verde;    masificación    de   la       Este primer Plan contó con la participación de
+electromovilidad, y eficiencia energética, para           múltiples actores. A todos ellos les agradezco
+hacer un buen uso de la energía en nuestros               su fundamental participación. A quienes lean
+hogares y trabajos.                                       estas páginas los invito a usar bien nuestra
+                                                          energía, a incorporar la eficiencia energética
+La eficiencia energética juega un rol clave para
+                                                          en todas sus actividades, y a seguir trabajando
+nuestra carbono neutralidad, aportando con
+                                                          juntos por la carbono neutralidad de Chile.
+el 35% a la reducción de emisiones. Además,
+mejora la calidad de vida de las personas,
+genera importantes ahorros económicos, y
+aumenta la productividad y competitividad de
+las empresas, entre otros múltiples beneficios.
+
+Chile por primera vez en su historia cuenta con
+
+
+
+                                                                                    Juan Carlos
+                                                                                 Jobet Eluchans
+                                                                   Biministro de Energía y Minería
+
+
+                                                      8                                                     9
+                                                                                                                    Plan Nacional de Eficiencia Energética | 2022 - 2026
+     El primer Plan Nacional de Eficiencia Energética          En este primer plan agregamos, además, un
+     que aquí se publica, fue resultado del diálogo            sector transversal enfocado en la ciudadanía,
+     y la participación ciudadana.                             porque la eficiencia energética depende de
+                                                               cada uno de nosotros como comunidad, y la
+     Más de 1.100 personas participaron y fueron
+                                                               sociedad civil no sólo fue relevante para su
+     clave para orientar las metas y medidas del
+                                                               construcción, sino que también será clave para
+     presente Plan, ya que con su mirada fuimos
+                                                               su implementación.
+     capaces de construir una visión en conjunto
+     de dónde queremos llegar y definir los caminos            Es por eso que, con estos esfuerzos transversales,
+     que tenemos que seguir para hacer de esa                  y gracias a su aplicación lograremos como
+     visión una realidad.                                      país una disminución de nuestra intensidad
+                                                               energética del 15% al 2030 y del 35% al 2050.
+     Agradecemos a todas y todos los actores,
+     ciudadanos,    representantes     de   empresas,          El Plan Nacional de Eficiencia Energética
+     gremios,    academia,        organizaciones    de         contiene 32 medidas, que significan desafíos
+     la sociedad civil y del sector público que                y   compromisos     importantes,    y   que   son
+     participaron   en      los   diferentes   talleres        fundamentales para nuestro futuro energético
+     organizados para elaborar el Plan.                        sostenible.
+
+     Esta hoja de ruta aborda acciones concretas               Estas medidas sumadas a las estrategias y
+     para los principales sectores que consumen                políticas definidas durante este período de
+     energía en nuestro país, llegando al sector               Gobierno en materia energética, sin duda
+     industrial y minero, al transporte y a las                permitirán que Chile sea carbono neutral al
+     edificaciones, que nos llevarán a cumplir las             2050, o incluso antes.
+     metas ambiciosas que nos hemos fijado.
+
+
+
+
+                                                                                     Francisco Javier
+                                                                                          López Díaz
+                                                                                Subsecretario de Energía
+
+
+10                                                        11
+                                                                                                                                                                               Plan Nacional de Eficiencia Energética | 2022 - 2026
+GLOSARIO
+EFICIENCIA ENERGÉTICA
+Consiste en lograr un mismo resultado consumiendo menos energía,
+sin disminuir la calidad de vida, o la calidad los productos o servicios
+entregados.
+
+
+
+ELECTRIFICACIÓN
+Proceso de sustituir el uso de combustibles fósiles por electricidad
+como insumo energético para la producción de bienes y servicios,
+para el transporte o para el uso cotidiano.
+                                                                                                                             INTENSIDAD ENERGÉTICA
+                                                                                                         Forma en que se mide la eficiencia energética. Es el resultado
+ENERGÍA FINAL                                                                                            de la relación entre el consumo de energía y un indicador
+Es la energía tal y como se usa en los lugares de consumo. Para                                          macroeconómico. A nivel país, es común relacionar cantidad de
+disponer de esta energía final es necesario transformar y transportar                                    energía que se requiere consumir para generar el producto interno
+la energía primaria, procesos que producen pérdidas.                                                                                                           bruto (PIB).
+
+
+
+ENERGÍA PRIMARIA                                                                                              SISTEMA DE GESTIÓN DE ENERGÍA
+Energía que no ha sufrido ningún proceso de conversión o                                                 Conjunto de elementos de una empresa, interrelacionados o
+transformación, esta puede ser procedente de fuentes renovables                                          que interactúan entre sí, con el objetivo de asegurar una mejora
+y no renovables. Ejemplos de energía primaria son la energía solar,                                      continua en el desempeño energético a través de procedimientos
+el viento, el petróleo crudo, la biomasa o el gas natural, entre otras.                                                                      y métodos bien establecidos.
+
+
+
+
+               =                    +                  +                                                                               TERACALORÍA O Tcal
+                                                                                                         Unidad de medida de energía equivalente a un billón de calorías.
+                                                                                                         Una caloría equivale a la cantidad de energía necesaria para elevar
+                                                                                                                                  en 1 grado centígrado 1 gramo de agua.
+                                                                           Cerro Alto de las Vizcachas
+  Energía
+  Primaria     =     Pérdidas en
+                   Transformación   +    Pérdidas en
+                                         Transporte    +       Energía
+                                                                Final
+                                                                                Región Metropolitana
+
+
+
+
+                                               12                                                                          13
+                                                                                                            Plan Nacional de Eficiencia Energética | 2022 - 2026
+TABLA DE CONTENIDOS
+
+16   1. Sobre el Plan
+     VISIÓN Y OBJETIVOS                                   38   4. Implementación
+                                                               MEDIDAS Y METAS
+     DEL PLAN NACIONAL DE                                      SECTORIALES
+     EFICIENCIA ENERGÉTICA                                     Sectores Productivos
+     Visión de Futuro
+                                                               Sector Transporte
+     Objetivos del Plan
+                                                               Sector Edificaciones
+     El Plan en Contexto
+                                                               Sector Ciudadanía
+     Proceso participativo: ¿Cómo ha sido desarrollado
+     este plan?
+
+     Nuestro viaje elaborando el Plan
+
+
+
+
+26   2. Contexto Energético Nacional
+     ¿DÓNDE ESTAMOS?                                      62   5. Seguimiento
+                                                               EVALUACIÓN Y
+                                                               SEGUIMIENTO DEL PLAN
+     Intensidad energética en Chile y su relación con
+     otras economías                                           Evaluación de impacto del Plan
+
+     Evaluación plan de acción de Eficiencia Energética        Seguimiento de la implementación del Plan
+     2020
+                                                               Instrumentos de seguimiento de las medidas
+     32 Medidas PAEE20
+
+
+
+
+34   3. Metas
+     ¿DÓNDE QUEREMOS LLEGAR?
+     Metas de reducción de intensidad energética
+
+
+
+
+                                 14                                                       15
+                                                                                                                                         Plan Nacional de Eficiencia Energética | 2022 - 2026
+                                                                  1. SOBRE EL PLAN
+
+
+                           VISIÓN Y OBJETIVO
+                           DEL PLAN NACIONAL
+                              DE EFICIENCIA
+                               ENERGÉTICA
+                           La Ley 21.305 sobre Eficiencia Energética, primera         destacan: la definición de metas de reducción
+                           en su tipo en nuestro país, fue publicada en el            de intensidad energética en el corto, mediano y
+                           Diario Oficial el día 13 de febrero de 2021.               largo plazo, así como también medidas para los
+                                                                                      distintos sectores que consumen energía en el
+                           En su primer artículo, la ley mandata al Ministerio
+                                                                                      país y que nos permitirán alcanzar dichas metas.
+                           de Energía a elaborar el primer Plan Nacional de
+                           Eficiencia Energética, que se actualizará cada             Para el desarrollo de esta labor, se ha
+                           cinco años. La preparación de este Plan, indica            contado con el importante apoyo del Banco
+                           la ley, se debe realizar en conjunto con otros             Interamericano de Desarrollo, por medio del
+                           ministerios y contar con participación ciudadana.          proyecto denominado “Apoyo a la Modernización
+                                                                                      Energética con Sello Ciudadano - Apoyo al
+                           El plan que aquí se presenta, ha sido desarrollado
+                                                                                      Proyecto de Ley de Eficiencia Energética”.
+                           con un amplio proceso participativo, y cubre todos
+                           los aspectos indicados por la ley, que entre ellos
+
+
+
+
+                                                                                            Revisa la Ley 21.305
+                                                                                            sobre eficiencia
+                                                                                            energética ingresando al
+                                                                                            código QR
+Hornopirén
+Región de Los Lagos
+
+
+                      16                                                         17
+                                                                                                                                          Plan Nacional de Eficiencia Energética | 2022 - 2026
+VISIÓN DE FUTURO
+
+Mejorar la eficiencia energética implica una               permitiría limitar el cambio climático, y la
+reducción en la cantidad de energía utilizada              energía está en el centro de las soluciones para
+para   proporcionar    bienes   o   servicios.   El        aquello.
+ahorro de energía está en el centro de los
+                                                           Para lograr esta reducción, se exige un cambio
+múltiples beneficios de la eficiencia energética
+                                                           radical en la innovación tecnológica en áreas
+y está vinculado a muchos otros beneficios
+                                                           críticas como mejorar la eficiencia energética,
+económicos, sociales y ambientales.
+                                                           hacer que la electricidad baja en carbono sea la
+El último informe del Grupo Intergubernamental             fuente principal para calefaccionar edificaciones
+de Expertos sobre el Cambio Climático (IPCC)               y propulsar vehículos, capturar, almacenar y
+hace un llamado urgente a la acción, ya que                utilizar dióxido de carbono antes de que se
+se “están observando cambios en el clima de                escape a la atmósfera, aprovechar el potencial
+la Tierra en todas las regiones y en el sistema            del hidrógeno limpio en industrias y propender al
+climático en su conjunto. Muchos de los cambios            uso de bioenergía sostenible (AIE, 2020).
+observados en el clima no tienen precedentes en
+                                                           Por ello, este primer Plan Nacional de Eficiencia
+miles, sino en cientos de miles de años, y algunos
+                                                           Energética toma aun mayor relevancia, y se
+de los cambios que ya se están produciendo,
+                                                           inserta en los planes que se han desarrollado para
+como el aumento continuo del nivel del mar, no
+                                                           alcanzar la carbono neutralidad en las próximas
+se podrán revertir hasta dentro de varios siglos
+                                                           décadas y los esfuerzos por combatir el cambio
+o milenios.” (IPCC, 2021). Sin embargo, el mismo
+                                                           climático.
+informe señala que una reducción sustancial y
+sostenida de las emisiones de dióxido de carbono
+(CO2) y de otros gases de efecto invernadero
+
+
+
+
+                                Eficiencia energética es lograr
+                                un mismo resultado consumiendo
+                                menos energía, sin disminuir la
+                                calidad de vida, o la calidad los
+                                productos o servicios entregados.
+                                                                                                                      Cerro Guachiscota
+                                                                                                                     Región de Tarapacá
+
+
+                                                      18                                                        19
+                                                                                                                                                                                                                                                        Plan Nacional de Eficiencia Energética | 2022 - 2026
+OBJETIVO DEL PLAN
+El Plan proporciona un marco estratégico para el desarrollo de la eficiencia energética
+de nuestro país y de esta manera, materializar el potencial de ahorro energético que permita
+alcanzar la carbono neutralidad al año 2050, en línea con las políticas que ha desarrollado
+hasta el momento el Ministerio de Energía y el Estado en general en materia de sostenibilidad.
+
+
+
+
+EL PLAN EN CONTEXTO
+Este Plan ha sido establecido de manera oficial en la Ley sobre Eficiencia Energética, y se
+enmarca en un conjunto de políticas públicas desarrolladas por el Ministerio de Energía, que
+se deben considerar como complementarias, ya que apuntan a un mismo objetivo: alcanzar
+la carbono neutralidad en las próximas décadas por medio del buen uso de la energía. En
+este contexto, las políticas, planes y programas que, entre otros, se deben considerar son:
+
+
+
+
+  Marco en energía                                         Electricidad
+                                                                                    Otros
+                                                                                 combustibles
+                                                                                                      Infraestructura                                                                                                            Valle de la Luna
+                                                                                                                                                                                                                          Región de Anrofagasta
+
+
+
+
+                                                     POLÍTICA ENERGÉTICA DE CHILE 2050                                                                                               Industria e
+                                                                                                                                                                                     innovación
+                                                                                                                                                                                                                Medio ambiente y
+                                                                                                                                                                                                                cambio climático
+
+                                               Estrategia              Estrategia              Estrategia        Estrategia de
+                                              Nacional de             de Transición           Educativa de      Transición Justa                                                       Políticas
+            Regulación                                                 Energética                                                                                                                                     Políticas
+                                            Hidrógeno Verde                                     Energía            en Energía                                                       territoriales y
+                                                                       Residencial                                                                                                                                  económicas
+                                                                                                                                                                                        locales
+
+           Planificación                      Plan Nacional            Estrategia            Estrategia           Carbono                                                             Políticas                Transporte urbano
+            energética                        de Eficiencia           Nacional de         Nacional de Calor    Neutralidad en el                                                     sectoriales                  sustentable
+                                               Energética           Electromovilidad           y Frío           Sector Energía
+
+
+                                                                                                                                                                                         NDC1                            ODS2
+
+                       Marco general y vinculación con otros sectores
+                                                                                                                    1.   NDC: Contribuciones Determinadas a Nivel Nacional, por sus siglas en inglés.   2.   ODS: Objetivos de Desarrollo Sostenible.
+
+                                             20                                                                                                                               21
+                                                                                                                                                                                                                               Plan Nacional de Eficiencia Energética | 2022 - 2026
+PROCESO PARTICIPATIVO:
+¿CÓMO HA SIDO DESARROLLADO ESTE PLAN?
+Parte importante del proceso de elaboración del Plan fue el proceso participativo, donde mediante un
+llamado abierto, se inscribieron 1.140 personas, pertenecientes a la academia, sociedad civil, empresas
+privadas y sector público.
+
+
+
+
+          1.140
+                                                          personas inscritas en el
+                                                          proceso participativo de
+                                                          elaboración del Plan.
+
+                                                                                                                                                                                                                    Zapallar
+                                                                                                                                                                                                        Región de Valparaíso
+
+¿Cómo se llevó a cabo este proceso?
+                                                                                                           Inscritos en proceso
+Antes de comenzar las sesiones de trabajo y con el objetivo de nivelar la información y conocimientos      participativo                                                                                  4,8%
+para iniciar de mejor manera el proceso de dialogo, se realizó un taller introductorio, donde se                                                                                                  Asociación gremial
+repasaron conceptos básicos de energía, se revisó experiencia internacional y tendencias sobre la          6,9%                                                                                            2,8%
+elaboración de planes de eficiencia energética.                                                            Sector público                                                                                   Empresa
+                                                                                                                                                                                                             pública
+Luego, la fase de diálogo se separó en tres etapas, en primer lugar, se identificaron problemáticas para
+cada sector, respondiendo a la pregunta: ¿Dónde estamos? En una segunda sesión, se construyó una
+                                                                                                           11,8%                                                                                          1,4%
+                                                                                                           Sociedad civil                                                                                ONG/OSFL*
+visión de futuro, respondiendo la pregunta: ¿Dónde queremos llegar? Para, finalmente, llegar a lo
+concreto y levantar propuestas de planes y medidas que nos permitan alcanzar al estado deseado
+                                                                                                                                                                                                           1,1%
+identificado anteriormente.                                                                                15,2%                                                                                         Consultoría
+                                                                                                           Academia
+                                                                                                                                                                                                          0,5%
+Para abarcar la gran cantidad de temas que debe abordar el Plan, se dividieron éstos en cuatro ejes
+principales, asignando una mesa temática a cada una de estas materias. Estas mesas de trabajo
+                                                                                                                                                                                                          Organismo
+fueron:                                                                                                                                                                                                internacional
+                                                                                                           54,9%
+                                                                                                           Empresa privada                                                                                0,5%
+                                                                                                                                                                                                                 Otro
+
+                                                                                                           *
+Eficiencia                   Eficiencia                Eficiencia               Eficiencia
+                                                                                                               ONG: Organizaciones No Gubernamentales; OSFL: Organizaciones Sin Fines de Lucro.
+
+Energética y                 Energética en             Energética               Energética en
+Ciudadanía                   Edificaciones             en Sectores              Transporte
+                                                       Productivos                                                                            70%                           30%
+                                                                                                                                              Masculino                     Femenino
+Dentro de estas mesas de trabajo se abordaron temas transversales, como Educación y Difusión.
+
+
+                                                  22                                                                                                               23
+                                                                                                                   Plan Nacional de Eficiencia Energética | 2022 - 2026
+NUESTRO VIAJE
+ELABORANDO EL PLAN
+
+                                Mayo 2021
+                                Audiencia de inicio
+
+                                            Mayo 2021
+                                            Taller introductorio
+
+
+
+                               Junio 2021
+            Sesiones 1:
+        DIAGNÓSTICO
+       ¿Dónde Estamos?
+                                                Junio 2021
+                                                Sesiones 2:
+                                                ESTADO DESEADO
+                                                ¿Dónde queremos llegar?
+
+
+
+
+SESIONES:                                                    Julio 2021
+                                              Sesiones 3:
+    Eficiencia Energética y
+    Ciudadanía                        LÍNEAS DE ACCIÓN
+                                      Propuestas de planes
+    Eficiencia Energética en
+    Edificaciones                               y medidas
+                                                                          Julio 2021
+                                                                          Audiencia
+    Eficiencia Energética en
+    Sectores Productivos
+
+                                                                          de cierre
+    Eficiencia Energética en
+    Transporte                                                                         Peñalolén
+                                                                                       Región Metropolitana
+
+                                                   24                                                         25
+                                                                                                                                                                                                                                                                                         Energética| 2022
+                                                                                                                                                                                                                                                                              EficienciaEnergética           - 2026
+                                                                                                                                                                                                                                                                                                     | 2022- 2026
+                                                           El consumo energético del país ha ido en aumento junto con el crecimiento económico y
+                                                           poblacional. En los países de la OCDE se ha logrado mantener un crecimiento económico
+
+
+
+
+                                                                                                                                                                                                                                                                 NacionaldedeEficiencia
+                                                           desacoplado del consumo energético, y si bien Chile en las últimas décadas ha logrado un
+                                                           crecimiento económico mayor que el promedio de estos países, no hemos logrado aún un
+                                                           desacople relevante entre el crecimiento económico y el consumo energético, lo que
+
+
+
+
+                                                                                                                                                                                                                                                            PlanNacional
+                                                           hace urgente avanzar y profundizar medidas de eficiencia energética que permitan cumplir
+                                                           los objetivos de la ley y de mitigación de los efectos generados por los gases de efecto
+
+
+
+
+                                                                                                                                                                                                                                                           Plan
+                                                           invernadero.
+
+                                                           Crecimiento económico y consumo energético
+                                                           Fuente: Elaboración propia con datos de la Agencia Internacional de Energía,
+                                                           el Banco Central y el Ministerio de Energía
+
+
+
+                                                           OECD                                                                                                        Chile
+                                                           600                                                                                                         600
+
+                                                           500                                                                                                         500
+
+                                                           400                                                                                                         400
+
+                                                           300                                                                                                         300
+
+                                                           200                                                                                                         200
+
+                                                           100                                                                                                         100
+
+                                                              0                                                                                                           0
+
+
+
+
+                                                                  1971
+
+
+
+
+                                                                                                                                                                              1971
+                                                                         1975
+
+                                                                                1979
+
+                                                                                       1983
+
+                                                                                              1991
+
+                                                                                                     1996
+
+                                                                                                             1999
+
+                                                                                                                                   2003
+
+                                                                                                                                               2007
+
+
+
+
+                                                                                                                                                                                     1975
+
+                                                                                                                                                                                            1979
+
+                                                                                                                                                                                                   1983
+
+                                                                                                                                                                                                          1991
+
+                                                                                                                                                                                                                 1996
+
+                                                                                                                                                                                                                        1999
+
+                                                                                                                                                                                                                               2003
+
+                                                                                                                                                                                                                                      2007
+                                                                                                                                                      2011
+
+                                                                                                                                                             2015
+
+
+
+
+                                                                                                                                                                                                                                             2011
+
+                                                                                                                                                                                                                                                    2015
+                                                                                                            PIB (Base 1970 = 100)                                   Consumo Final Energía (Base 1970 = 100)
+
+
+
+
+                                                                         +21%
+                                                                                                                                                                     El consumo final de energía ha
+                                                                                                                                                                     aumentado en el país en un 21%
+                                                                                                                                                                     entre el año 2010 y el año 2019.
+
+
+                                                           Evolución del consumo
+Pucón
+                                                           final de energía
+
+
+
+
+                                                                                                                    Millones de teracalorías
+Región de la Araucanía                                     Fuente: Balance Nacional de Energía, Ministerio
+                                                           de Energía, 2020
+
+
+
+                                                               Consumos propios
+                         2. CONTEXTO ENERGÉTICO NACIONAL
+
+
+    ¿DÓNDE ESTAMOS?
+                                                               Comercial, Público y Residencial
+
+                                                               Industria y Minería
+
+                                                               Transporte
+
+
+
+
+                                       26                                                                                                                            27
+                                                                                                                                                    Plan Nacional de Eficiencia Energética | 2022 - 2026
+INTENSIDAD ENERGÉTICA EN CHILE
+Y SU RELACIÓN CON OTRAS ECONOMÍAS
+La intensidad energética, entendiendo ésta como la relación entre el consumo de energía de un
+país dividida por su producto interno bruto (PIB), es una de las maneras más sencillas de comparar
+la forma que se utiliza la energía entre países. Sin embargo, si bien la eficiencia energética aporta a
+mejorar este factor en cada país, debemos tomar en cuenta que existen otros elementos que inciden
+en este indicador, como, por ejemplo, la estructura de la economía, el tamaño del país, su clima, el
+tipo de cambio monetario, entre otros factores.
+
+Tomando lo anterior en consideración, es importante ver la evolución de este indicador en el tiempo
+por diversos países, para identificar de manera comparativa el potencial que aún puede existir para
+mejorar la eficiencia energética de nuestro país.
+
+
+
+
+Intensidad
+Energética
+                                         Toneladas equivalentes de petróleo
+
+
+
+
+Fuente: SDG7 Data and projections,
+                                             por miles de dólares (2015)
+
+
+
+
+Agencia Internacional de Energía, 2020
+
+
+
+    Total OECD
+
+    Unión Europea
+
+    Mundo
+
+    Chile
+
+
+
+
+                                                                              Si bien Chile ha mantenido una
+                                                                              intensidad energética por debajo del
+                                                                              promedio mundial, aún existe una brecha
+                                                                              importante, entre un 45% y un 55%, para
+                                                                              alcanzar la intensidad energética que
+                                                                              logran países de la OCDE o países que
+                                                                              forman parte de la Unión Europea.
+
+                                                                                                                                     Providencia
+                                                                                                                             Región Metropolitana
+
+                                                                                     28                                 29
+                                                                                                                                                                                           Plan Nacional de Eficiencia Energética | 2022 - 2026
+                        EVALUACIÓN   El Plan de Acción de Eficiencia Energética                             Transporte, Edificación, Artefactos, Leña, y
+
+
+
+      PLAN DE ACCIÓN
+                                     2020 (PAEE20)3, se publicó el año 2013 con el                          Medidas Transversales.
+                                     objetivo de ser una guía para que los sectores
+                                                                                                            Al 2020, las 32 medidas propuestas en el PAEE20
+                                     público y privado pudieran orientar sus acciones
+                                                                                                            fueron implementadas.        Como resultados,
+
+
+      DE EFICIENCIA
+                                     y así incrementar la eficiencia energética en
+                                                                                                            en 2019, se logró un ahorro energético en
+                                     sus respectivos ámbitos de acción, indicando
+                                                                                                            el consumo final de 29.366 Tcal, equivalente
+                                     como meta, alcanzar un 12% de reducción de
+
+
+
+     ENERGÉTICA 2020
+                                                                                                            a una reducción del 9% de la demanda
+                                     la demanda energética proyectada en el año
+                                                                                                            energética proyectada, esto a su vez significa
+                                     2020, con base en el año 2010. Ello permitiría
+                                                                                                            una mitigación de 8,7 millones de toneladas
+                                     lograr una disminución estimada de 43.000
+                                                                                                            de CO2 equivalente, lo que es equiparable a
+                                     Tcal en 2020.
+                                                                                                            la plantación de más de 500 mil hectáreas de
+                                     El PAEE20 contenía un total de 32 medidas, que                         bosque nativo o a más de 5 millones de vehículos
+                                     se dividían en 6 sectores: Industrial y Minero,                        que dejan de circular por un año.
+
+
+
+
+                                     Ahorros logrados a partir
+                                     del PAEE20
+
+
+
+
+                                                                                                                                                         Millones de toneladas de CO2 eq
+                                     Fuente: Elaboración propia en base al Balance
+                                     Nacional de Energía, Ministerio de Energía, 2020
+
+
+
+
+                                                                                        Teracalorías
+                                          Emisiones evitadas
+
+                                          Ahorros de energía
+
+
+
+
+                                                  PAEE20                                                         -8,7mm
+                                                  En 2019, logró un ahorro                                       millones de toneladas de
+                                                  energético en el consumo                                       CO2, equivalente a plantar
+                                                  final de 29.366 TCal                                           más de 500 mil hectáreas
+                                                  equivalente al 9% de                                           de bosque nativo
+                                                  la demanda energética
+                                                  proyectada
+San Pedro de Atacama
+Región de Antofagasta
+                                     3.     https://energia.gob.cl/sites/default/files/plan-de-accion-de-eficiencia-energetica2020.pdf
+
+                            30                                                                         31
+                                                                                                                                                  Plan Nacional de Eficiencia Energética | 2022 - 2026
+32 MEDIDAS PAEE20
+   Sector           Número de medidas   Ejemplos de medidas propuestas               Ejemplos de acciones implementadas
+
+
+                                        • Promover la implementación de
+   Industrial y                           sistemas de gestión de energía.
+                                                                                     • Programa de fomento a los sistemas de gestión de
+                           4                                                           energía realizado por la Agencia de Sostenibilidad
+   minero                               • Promover y fomentar la cogeneración.         Energética.
+
+
+
+                                        • Mejorar la eficiencia energética de
+                                          vehículos livianos y medianos que          • Etiquetado energético de vehículos livianos y medianos,
+   Transporte              7              ingresan al parque vehicular.                vigente a partir de 2013 y 2016, respectivamente.
+                                        • Iniciación a la movilidad eléctrica.
+
+
+                                        • Promover la gestión energética
+                                          eficiente de edificios.
+   Edificación             5            • Promover el diseño de edificios con
+                                                                                     • Creación de la calificación energética de viviendas.
+                                          alto estándar de eficiencia energética.
+
+
+                                        • Ampliar el etiquetado de eficiencia        • Estándares para ampolletas, refrigeradores, motores y
+                                          energética.                                  aire acondicionado.
+   Artefactos              3            • Establecer estándares mínimos de           • Programa Con Buena Energía.
+                                          eficiencia energética.
+
+
+                                        • Mejorar el estándar de calidad en
+                                          comercialización y consumo de leña.        • Centros de acopio de leña para fomentar la producción
+   Leña                    5            • Aumentar la eficiencia del consumo de        y comercio con leña seca.
+                                          leña residencial.
+
+
+                                        • Desarrollo de acciones de difusión y
+                                          promoción de la Eficiencia Energética.     • Implementación de Programa Educa Sostenible.
+   Medidas                              • Promover la integración de la eficiencia
+                           8                                                         • Lanzamiento del sello de eficiencia energética en el año
+   transversales                          energética en la educación.                  2013.
+                                        • Creación del sello de eficiencia
+                                          energética.
+
+
+                   32                                                                                           33
+                                                                                                                                     Plan Nacional de Eficiencia Energética | 2022 - 2026
+                                  La eficiencia energética tiene un rol clave en la lucha contra el cambio climático, así como
+                                  para aumentar la seguridad en el suministro de energía y optimizar el uso de la infraestructura
+                                  energética en nuestro país. En este contexto, la definición de metas permite analizar la
+                                  efectividad de las medidas propuestas en el presente Plan, y realizar acciones correctivas en
+                                  caso de ser necesario.
+
+
+                                  METAS DE REDUCCIÓN
+                                  DE INTENSIDAD ENERGÉTICA
+                                  Como se indicó anteriormente, eficiencia energética significa hacer una misma actividad
+                                  consumiendo menos energía, o bien realizar más actividades consumiendo la misma cantidad
+                                  de energía. En ese sentido, para definir metas de eficiencia energética, no basta entonces sólo
+                                  con considerar el consumo de energía del país, sino que además se debe tomar en cuenta la
+                                  producción.
+
+                                  Un indicador que permite relacionar ambos conceptos, consumo energético y producción, es la
+                                  intensidad energética, entendida como el nivel de consumo de energía final del país sobre el
+                                  producto interno bruto.
+
+
+
+                                                                                      El año 2019, nuestro país tuvo
+
+                                          1,92
+                                                                                      consumo final de energía de
+                                                                                      aproximadamente 300 mil
+                                                                                      teracalorías4 y un PIB de 155
+Las Condes
+Región Metropolitana                      (kcal/$)                                    billones de pesos5. Esto equivale una
+                                                                                      intensidad de energética de 1,92
+                                                                                      kilocalorías por peso producido.
+
+                       3. METAS
+                                  El presente Plan presentará metas de corto, mediano y largo plazo, para la reducción de la
+
+
+   ¿DÓNDE QUEREMOS
+                                  intensidad energética. Para la definición de estas metas, se modeló un escenario base, que
+                                  supone un crecimiento del país sin la implementación de medidas de eficiencia energética. Frente
+
+
+
+
+       LLEGAR?
+                                  a esta situación base, se evaluó la implementación de las medidas que se presentarán en los
+                                  siguientes capítulos.
+
+                                  4.   Fuente: Balance Nacional de Energía.
+
+                                  5.   Fuente: Producto interno bruto, año de referencia del peso 2013, Banco Central de Chile.
+
+                          34                                                                         35
+                                                                                                                                        Plan Nacional de Eficiencia Energética | 2022 - 2026
+Proyección de intensidad
+energética
+
+
+
+
+                                            (Tcal/Miles Millones CL$ 2013)
+Fuente: Elaboración propia, Ministerio de
+Energía, 2021
+
+
+
+
+                                                Intensidad Energética
+    Esc. Base
+
+    Plan EE
+
+
+
+
+La gráfica anterior evidencia que tanto en el escenario base, que no considera las medidas de este
+Plan, como en el escenario esperado al implementar este Plan, se espera una reducción de la intensidad
+energética del país. No obstante, la reducción que se obtiene en el escenario base no es suficiente para
+lograr las ambiciones climáticas que nos hemos propuesto. Por otro lado, al implementar este Plan, se
+espera que la intensidad energética se reduzca al 2050 en un 35% respecto a los niveles observados
+en el 2019.
+
+La implementación de las medidas que se presentan en este Plan nos permitirá alcanzar las siguientes
+metas de reducción de intensidad energética respecto del año 2019:
+
+
+
+
+              6%                                                             15%            35%
+              al año                                                         al año         al año
+              2026                                                           2030           2050
+              (1,82 Tcal                                                     (1,65 Tcal     (1,25 Tcal
+              por miles de                                                   por miles de   por miles de
+              millones de                                                    millones de    millones de
+              pesos)                                                         pesos)         pesos)
+                                                                                                                San Pedro de Atacama
+                                                                                                                Región de Antofagasta
+
+                                                                                 36                        37
+                                                                                                                                                                                                            Plan Nacional de Eficiencia Energética | 2022 - 2026
+                                   4. IMPLEMENTACIÓN
+                                                                                                          SECTORES PRODUCTIVOS
+
+       MEDIDAS Y METAS
+         SECTORIALES
+                                                                                                           El sector industrial y minero es clave para el progreso del país, y aumentar la eficiencia
+                                                                                                           energética de sus operaciones tiene impactos positivos en los ámbitos energéticos,
+                                                                                                           ambientales y sociales. De acuerdo con el Balance Nacional de Energía, el año 2019, los
+                                                                                                           sectores productivos del país consumieron un total de 113.942 Tcal, lo que equivale al 38%
+                                                                                                           del consumo final de energía a nivel nacional, posicionando a este sector como el de mayor
+                                                                                                           consumo en 2019.
+
+                                                                                                           En el caso del sector minero, uno de los sectores más relevantes de nuestra economía, de
+ Pichidangui
+ Región de Coquimbo                                                                                        acuerdo a cifras de la Agencia Internacional de Energía, la intensidad energética ha aumentado
+                                                                                                           de manera importante (aproximadamente un 70%) en las últimas décadas, alejándonos de
+                                                                                                           otros países con desarrollo minero como Australia y Brasil.
+El Plan ha sido elaborado considerando las diversas estrategias y planes que se han presentado
+por el Ministerio de Energía y que apuntan a generar una matriz energética más segura, eficiente y         La proyección realizada al 2050 para el sector indica que, sin medidas de eficiencia
+sostenible.                                                                                                energética, su consumo final alcanzaría las 154.000 Tcal. Para lograr disminuir esta cifra en
+                                                                                                           aproximadamente 25%, se plantean las siguientes medidas.
+Las medidas del Plan se han divido en 4 sectores, siendo estos:
+
+
+
+
+              Sectores                                            Sector                             Intensidad energética
+                                                                                                     sector minero
+              Productivos                                         Transporte
+
+
+
+
+                                                                                                                                                  Intensidad Energética por PIB
+                                                                                                     Fuente: SDG7 Data and projections, Agencia
+                                                                                                     Internacional de Energía, 2020
+
+
+
+
+                                                                                                                                                       (MJ/USD PPP 2015)
+                                                                                                         Australia
+
+              Sector                                              Sector                                 México
+
+
+              Edificaciones                                       Ciudadanía                             Brasil
+
+                                                                                                         Chile
+
+
+
+
+Para cada uno de estos sectores se han definido un conjunto de medidas y de metas específicas a
+alcanzar.
+
+
+
+                                                38                                                                                                                                39
+                                                                                                                                                                                                            Plan Nacional de Eficiencia Energética | 2022 - 2026
+IMPLEMENTACIÓN SISTEMAS DE GESTIÓN                                                                        ACTUALIZACIÓN DEL ESTÁNDAR MÍNIMO
+DE ENERGÍA EN GRANDES CONSUMIDORES                                                                        DE EFICIENCIA ENERGÉTICA PARA MOTORES
+                                                                                                          ELÉCTRICOS
+Medida:                                                       Inicio estimado de implementación:
+                                                                                                          Medida:                                        Inicio estimado de implementación:
+A partir de lo que mandata la Ley                           2022                 2025              2030
+21.305, los grandes consumidores de                                                                       Se actualizará el estándar mínimo vigente,   2022              2025                  2030
+energía (sobre 50 Tcal de consumo al                                                                      tanto para aumentar su exigencia como
+                                                                           A partir
+año) deberán implementar sistemas de                                       de 2024                        también para extender su aplicación a
+                                                                                                                                                              A partir
+gestión de energía.                                                                                       motores con potencias superiores a 7,5              de 2023
+                                                                                                          kW.
+
+
+     Metas:
+
+                                                                                                          PROMOCIÓN DE LA ELECTRIFICACIÓN
+
+          4%
+          Reducir en un 4% la intensidad
+                                                                        25%
+                                                                        Reducir en un 25% la intensidad
+                                                                                                          DE USOS TÉRMICOS Y MOTRICES EN LA
+                                                                                                          INDUSTRIA Y MINERÍA
+          energética6 de los grandes                                    energética de los grandes         Medida:                                        Inicio estimado de implementación:
+          consumidores al 2026, respecto                                consumidores al 2050, respecto
+          al año 2021.                                                  al año 2021.                      Se desarrollarán políticas que favorezcan    2022              2025                  2030
+                                                                                                          el    reemplazo   de   combustibles   por
+                                                                                                          electricidad para satisfacer las demandas
+                                                                                                                                                              A partir
+                                                                                                          térmicas y motrices de los sectores                 de 2023
+6.   Intensidad energética medida como consumo total de energía sobre ventas monetarias.
+                                                                                                          productivos.
+
+
+
+FACILITAR LA IMPLEMENTACIÓN
+DE SISTEMAS DE GESTIÓN DE ENERGÍA
+EN PEQUEÑAS Y MEDIANAS EMPRESAS
+Medida:                                                       Inicio estimado de implementación:
+
+Se analizarán y fomentarán alternativas                                          2025              2030
+de financiamiento público y privado para
+que pequeñas y medianas empresas
+                                                             A partir
+implementen sistemas de gestión de                           de 2022
+energía en sus procesos.
+                                                                                                                                                                                            Chuquicamata
+                                                                                                                                                                                    Región de Antofagasta
+
+
+                                                              40                                                                                        41
+                                                                                                                                                                                         Plan Nacional de Eficiencia Energética | 2022 - 2026
+FORTALECIMIENTO DE LA FORMACIÓN DE                                                           DIFUSIÓN DE LOS RESULTADOS Y BENEFICIOS
+ESPECIALISTAS EN EFICIENCIA ENERGÉTICA                                                       DE LA EFICIENCIA ENERGÉTICA APLICADA A LOS
+PARA LOS SECTORES PRODUCTIVOS                                                                SECTORES PRODUCTIVOS
+Medida:                                         Inicio estimado de implementación:           Medida:                                  Inicio estimado de implementación:
+
+Se continuará el trabajo desarrollado por                                                    Se elaborará y mantendrá disponible                  2025                     2030
+                                                                 2025                 2030
+la mesa de capital humano en energía                                                         material de difusión e información
+para   incluir   temáticas   de   eficiencia                                                 respecto de los resultados obtenidos
+                                               A partir                                                                               A partir
+energética fomentando la capacitación                                                        por diversas industrias a partir de la   de 2022
+                                               de 2022
+y certificación de operarios, técnicos y                                                     implementación de sistemas de gestión
+profesionales, de acuerdo a estándares y                                                     de energía y se realizarán actividades
+normativa vigente.                                                                           de difusión enfocada en los distintos
+                                                                                             sectores de la industria.
+
+
+
+
+ELABORACIÓN DE INDICADORES DE EFICIENCIA
+ENERGÉTICA PARA LOS DISTINTOS SECTORES
+PRODUCTIVOS
+Medida:                                          Inicio estimado de implementación:
+
+Se definirán y recopilarán indicadores de      2022              2025                 2030
+eficiencia energética que sean acordes
+a los distintos procesos productivos y se
+                                                      A partir
+fomentará la incorporación de indicadores             de 2023
+de eficiencia energética en los reportes y
+estados financieros de las empresas.
+                                                                                                                                                                            Valparaíso
+                                                                                                                                                                  Región de Valparaiso
+
+
+                                                42                                                                                    43
+                                                                                                                                                                                                              Plan Nacional de Eficiencia Energética | 2022 - 2026
+     SECTOR TRANSPORTE                                                                                     ESTABLECIMIENTO DE ESTÁNDARES DE
+                                                                                                           EFICIENCIA ENERGÉTICA PARA VEHÍCULOS
+                                                                                                           LIVIANOS, MEDIANOS Y PESADOS
+                                                                                                           Medida:                                       Inicio estimado de implementación:
+
+                                                                                                           A partir de lo que mandata la Ley 21.305,   2022          2025                        2030
+
+                                                                                               Frutillar
+                                                                                                           se    incentivará   la   comercialización
+                                                                                   Región de Los Lagos
+                                                                                                           de vehículos nuevos más eficientes
+                                                                                                                                                              A partir    A partir    A partir
+                                                                                                           mediante la aplicación de estándares               de 2024     de 2026     de 2028
+       El sector transporte representó un consumo equivalente a un 37% del consumo final de energía        mínimos de eficiencia energética para              para        para        para
+                                                                                                                                                              vehículos   vehículos   vehículos
+       de nuestro país durante el 2019, consumiendo un total de 110.335 Tcal y solo superado por el        el parque vehicular.                               livianos    medianos    pesados
+       sector de industria y minería.
+
+       En el caso de los vehículos livianos, el rendimiento mixto promedio de los vehículos nuevos
+       que han ingresado a nuestro país en los últimos 6 años se encuentra en el orden de los 15                Metas:
+
+
+
+                                                                                                                    x2                                         x4
+       kilómetros por litro de gasolina equivalente, mientras que, en el caso de la Unión Europea y
+       Japón, este rendimiento promedio ha sido del orden de los 20 kilómetros por litro de gasolina
+       equivalente.
+                                                                                                                    Duplicar el rendimiento de los             Cuadruplicar el rendimiento de
+                                                                                                                    vehículos livianos nuevos que              los vehículos livianos nuevos
+                                                                                                                    entran al país al año 2035,                que entran al país al 2050,
+                                                                                                                    respecto del año 2019.                     respecto del año 2019.
+Rendimiento parque
+de vehículos livianos
+Fuente: Ministerio de Energía en colaboración
+con ISCI. Datos (ICCT, 2020)
+                                                Rendimiento energético NEDC
+
+
+
+
+    Brasil
+
+    Japón
+                                                         (km/lge)
+
+
+
+
+    China
+
+    Unión Europea
+
+    Estados Unidos
+
+    México
+
+
+    Chile
+
+
+
+
+       La proyección realizada al 2050 para el sector indica que, sin medidas de eficiencia
+       energética, su consumo final alcanzaría las 156.500 Tcal. Para lograr disminuir esta cifra en
+       aproximadamente 20%, se plantean las siguientes medidas.                                                                                                                                   Santiago
+                                                                                                                                                                                       Región Metropolitana
+
+
+                                                                              44                                                                        45
+                                                                                                                                                                                     Plan Nacional de Eficiencia Energética | 2022 - 2026
+ACELERACIÓN DEL DESPLIEGUE DE MEDIOS
+DE TRANSPORTE SUSTENTABLES Y EFICIENTES
+Medida:                                         Inicio estimado de implementación:
+
+Para   la   implementación      del   primer                2025                     2030
+eje de la nueva Estrategia Nacional
+de Electromovilidad, se trabajará en
+                                                A partir
+desarrollar instrumentos de fomento al          de 2022
+transporte eficiente y cero emisiones,                                                      DESARROLLO DE CONDICIONES HABILITANTES
+promoviendo       la    aceleración   de   la                                               PARA LA INFRAESTRUCTURA DE CARGA DE
+electromovilidad         por    segmentos,                                                  VEHÍCULOS ELÉCTRICOS
+potenciando la creación de condiciones
+                                                                                            Medida:                                      Inicio estimado de implementación:
+para la economía circular y transformación
+de vehículos, como también la habilitación                                                  De forma muy estrecha con el desarrollo                  2025                     2030
+de nuevas tecnologías como los vehículos                                                    del segundo eje de la nueva Estrategia
+a celdas de combustible de hidrógeno,                                                       Nacional    de     Electromovilidad,    se
+                                                                                                                                         A partir
+entre otros.                                                                                promoverá la expansión de la red de carga    de 2022
+                                                                                            para todo tipo de vehículos eléctricos,
+                                                                                            fomentando     distintas   soluciones   de
+                                                                                            carga y generando las condiciones
+                                                                                            habilitantes para su desarrollo armónico
+                                                                                            e interoperable.
+
+
+
+
+                                                                                            FOMENTO A UN USO EFICIENTE DEL TRANSPORTE
+                                                                                            Medida:                                      Inicio estimado de implementación:
+
+                                                                                            Colaborar con el Ministerio de Transportes               2025                     2030
+                                                                                            y Telecomunicaciones para fomentar el
+                                                                                            uso de medios de transporte eficientes,
+                                                                                                                                         A partir
+                                                                                            promoviendo y facilitando el uso de          de 2022
+                                                                                            transporte no motorizado (caminata
+                                                                                            y bicicleta) para viajes de hasta 5
+                                                                                            kilómetros, mejorando las condiciones y el
+ Santiago                                                                                   acceso al transporte público, y evaluando
+ Región Metropolitana
+                                                                                            nuevas alternativas de transporte como
+                                                                                            el carsharing o transporte compartido.
+                                                46                                                                                       47
+                                                                                                                                                                                         Plan Nacional de Eficiencia Energética | 2022 - 2026
+                                                                                              IMPULSO A LA INDUSTRIA NACIONAL
+                                                                                              MEDIANTE EL FOMENTO A LA INVESTIGACIÓN E
+                                                                                              INNOVACIÓN EN EL TRANSPORTE EFICIENTE Y
+                                                                                              CERO EMISIONES
+                                                                                              Medida:                                        Inicio estimado de implementación:
+
+                                                                                              En línea con el desarrollo de las medidas                  2025                     2030
+                                                                                              del tercer eje de la nueva Estrategia
+                                                                                              Nacional     de     Electromovilidad,    se
+                                                                                                                                             A partir
+                                                                                              fomentará, en conjunto con otras               de 2022
+                                                                                              instituciones, el desarrollo local de
+                                                                                              tecnologías más eficientes aplicadas
+                                                                                              al sector transporte, tal como la
+                                                                                              electromovilidad, a través de proyectos
+                                                                                              de   innovación,     así     como   también
+                                                                                              estudios de investigación que apoyen
+                                                                                              el desarrollo futuro de un transporte
+                                                                                              eficiente y cero emisiones.
+
+
+
+                                                                                 Colchagua
+                                                                        Región de O’Higgins
+                                                                                              DIFUSIÓN DE LOS RESULTADOS Y BENEFICIOS
+                                                                                              DE LA EFICIENCIA ENERGÉTICA APLICADA AL
+                                                                                              TRANSPORTE
+                                                                                              Medida:                                        Inicio estimado de implementación:
+FORTALECIMIENTO DE LA FORMACIÓN DE
+ESPECIALISTAS EN EFICIENCIA ENERGÉTICA                                                        Se elaborará y mantendrá disponible
+PARA EL TRANSPORTE EFICIENTE
+                                                                                                                                                         2025                     2030
+                                                                                              material   de     difusión   e   información
+                                                                                              respecto de la aplicación de eficiencia
+                                                                                                                                             A partir
+Medida:                                     Inicio estimado de implementación:                energética en el transporte y se realizarán    de 2022
+                                                                                              actividades de difusión enfocada en los
+Se continuará el trabajo desarrollado por               2025                     2030
+                                                                                              distintos actores del sector.
+la mesa de capital humano en energía
+para incluir temáticas de eficiencia
+                                            A partir
+energética fomentando la capacitación       de 2022
+y certificación de operarios, técnicos y
+profesionales, de acuerdo a estándares y
+normativa vigente.
+                                            48                                                                                               49
+                                                                                                                                                                                                                                                          Plan Nacional de Eficiencia Energética | 2022 - 2026
+     SECTOR EDIFICACIONES                                                                                           Metas:
+
+
+
+                                                                                                                          30%
+                                                                                                                          Las nuevas viviendas lograrán
+                                                                                                                                                                                             50%
+                                                                                                                                                                                             Las nuevas edificaciones
+                                                                                                                          un ahorro promedio de 30% en                                       lograrán un ahorro promedio
+                                                                                                                          su demanda de energía térmica                                      de 50% en su demanda de
+                                                                                                                          al año 2026, respecto del año                                      energía térmica al año 2050,
+                                                                                                                          2021.                                                              respecto del año 2021.
+      Vitacura
+      Región Metropolitana
+
+                                                                                                               7.   La validación de este ahorro promedio se llevará a cabo a través de la calificación energética respecto al 2021 .
+
+
+     El sector edificaciones considera tanto edificaciones comerciales, públicas y residenciales.
+     El año 2019, este sector tuvo un consumo total de 66.311 Tcal, lo que equivale a un 22% del
+     consumo final de energía de nuestro país.
+                                                                                                               IMPULSO A LA RENOVACIÓN ENERGÉTICA
+                                                                                                               DEL SECTOR EDIFICACIÓN
+     La proyección realizada al 2050 para el sector indica que, sin medidas de eficiencia energética,
+     su consumo final alcanzaría las 157.800 Tcal, más del doble del consumo actual. Para lograr               Medida:                                                             Inicio estimado de implementación:
+     disminuir esta cifra en aproximadamente 30%, se plantean las siguientes medidas.
+                                                                                                               Se desarrollará una estrategia a largo                                                   2025                                2030
+                                                                                                               plazo      para      apoyar        la    renovación
+                                                                                                               energética del parque construido de
+                                                                                                                                                                                  A partir
+                                                                                                               edificaciones,        tanto      públicas        como              de 2022
+ACTUALIZACIÓN DE LOS ESTÁNDARES DE                                                                             privadas, que les permitan alcanzar altos
+EFICIENCIA ENERGÉTICA DE LAS EDIFICACIONES                                                                     niveles de eficiencia energética, y de
+                                                                                                               modo que estos alcancen un estándar
+Medida:                                                 Inicio estimado de implementación:                     de energía neta cero al 2050.
+Se modificará la Ordenanza General                                    2025                        2030
+de    Urbanismo         y      Construcciones,
+para avanzar hacia edificaciones de
+                                                        Tercera                                Cuarta
+energía neta cero, a través de dos                      actualización                    actualización
+etapas.     Inicialmente,         a    través     de    a partir                              a partir
+                                                        de 2022                               de 2031
+la   implementación          de       una    tercera
+actualización      de   la     reglamentación           de uso educacional y salud. Posteriormente, la
+térmica     de    viviendas,       que      permita     implementación de una cuarta actualización de la
+disminuir la demanda térmica de las                     reglamentación térmica que establezca un estándar
+viviendas    en     aproximadamente               un    mínimo de energía neta cero para edificaciones. Esta
+30% respecto al estándar vigente e                      medida se llevará a cabo a través del Ministerio de                                                                                                                                Viña del Mar
+                                                                                                                                                                                                                                   Región de Valparaíso
+incorpore    estándares           para      edificios   Vivienda y Urbanismo.
+                                                        50                                                                                                                         51
+                                                                                                                                                                                                             Plan Nacional de Eficiencia Energética | 2022 - 2026
+FOMENTO AL REACONDICIONAMIENTO
+TÉRMICO DE VIVIENDAS EXISTENTES
+Medida:                                           Inicio estimado de implementación:
+
+Se dispondrán, en colaboración con el                           2025                        2030
+Ministerio de Vivienda y Urbanismo, de
+alternativas de financiamiento público
+                                                  A partir
+y privado para el reacondicionamiento             de 2022
+térmico de viviendas existentes, que
+permitan      alcanzar          una   reducción
+promedio de un 30% en el consumo de
+climatización de los hogares.
+
+
+
+                                                                                                                                                                                                  Zapallar
+                                                                                                                                                                                      Región de Valparaiso
+CALIFICACIÓN ENERGÉTICA DE VIVIENDAS
+Y OTRAS EDIFICACIONES
+                                                                                                         IMPLEMENTACIÓN DE EFICIENCIA ENERGÉTICA
+Medida:                                           Inicio estimado de implementación:                     EN EDIFICIOS PÚBLICOS
+A partir de lo que mandata la Ley                                                           2030
+                                                                                                         Medida:                                          Inicio estimado de implementación:
+21.305, y con el objetivo de entregar
+mejor información a los usuarios, se                                                                     Se fomentará la aplicación de medidas
+                                                  A partir de    A partir del 2025                                                                                        2025                 2030
+implementará el etiquetado obligatorio            2023 para      para edificios de uso                   de eficiencia energética en edificaciones
+para nuevas viviendas, edificios de               viviendas      público, edificios                      públicas     nuevas   y   existentes,    que
+                                                                 comerciales y                                                                                 A partir
+uso público, edificios comerciales y                             edificios de oficina                    son utilizadas por organismos de la                   de 2023
+edificios de oficina.                                                                                    administración del Estado. Para ello, se
+                                                                                                         implementará la aplicación de estándares
+                                                                                                         de eficiencia energética y renovación
+                                                                                                         tecnológica, de forma coordinada con las
+                                                                                                         herramientas existentes (Estándares de
+                                                                                                         eficiencia energética en edificios públicos
+                                                                                                         del   MOP,    Certificación   de   Edificios
+                                                                                                         Sustentables, Ordenanza General de
+                                                                                                         Urbanismo      y   Construcciones,      etc.),
+                                                                                                         que permitan alcanzar una reducción
+ Arica                                                                                           Arica   promedio de un 20% en el consumo de
+ Región de Arica y Parinacota                                             Región de Arica y Parinacota
+                                                                                                         energía.
+                                                  52                                                                                                      53
+                                                                                                                                                                                                         Plan Nacional de Eficiencia Energética | 2022 - 2026
+ELECTRIFICACIÓN DE LOS CONSUMOS                                                                             PROMOCIÓN DE INSTRUMENTOS ECONÓMICOS
+DE CLIMATIZACIÓN EN VIVIENDAS
+                                                                                                            Medida:                                        Inicio estimado de implementación:
+Medida:                                     Inicio estimado de implementación:
+                                                                                                            En base a la experiencia internacional,                      2025                   2030
+En conjunto con el Ministerio de Medio                       2025                              2030
+                                                                                                            se evaluará y fomentará la habilitación
+Ambiente, se promoverá el recambio                                                                          de distintos instrumentos económicos
+                                                                                                                                                                      A partir
+de calefacción hacia equipos eléctricos                                                                     públicos y privados para la aplicación de                 de 2024
+                                            A partir
+eficientes a través de la evaluación de     de 2022                                                         medidas de eficiencia energética en las
+alternativas de financiamiento público y                                                                    edificaciones y el desarrollo de proyectos
+privado para la adquisición de equipos,                                                                     de energía distrital.
+además de disponer de alternativas
+tarifarias accesibles para su consumo,
+en viviendas que posean demandas de                                                                         FORTALECIMIENTO DE LA FORMACIÓN DE
+energía térmica adecuadas para hacer                                                                        ESPECIALISTAS EN EFICIENCIA ENERGÉTICA
+operable y sostenible el recambio.                                                                          PARA LAS EDIFICACIONES
+                                                                                                            Medida:                                        Inicio estimado de implementación:
+
+                                                                                                            Se continuará el trabajo desarrollado                         2025                   2030
+                                                                                                            por   la   mesa    de      capital   humano
+                                                                                                            para incluir temáticas de eficiencia
+                                                                                                                                                           A partir
+                                                                                                            energética fomentando la capacitación          de 2022
+                                                                                                            y certificación de operarios, técnicos y
+                                                                                                            profesionales, de acuerdo a estándares
+                                                                                                            y normativa vigente.
+                                                                                         Torres del Paine
+                                                              Región de Magallanes y la Antártica Chilena
+
+                                                                                                            DIFUSIÓN DE LOS RESULTADOS Y BENEFICIOS
+HABILITACIÓN DE LA ENERGÍA DISTRITAL COMO                                                                   DE LA EFICIENCIA ENERGÉTICA APLICADA AL
+ALTERNATIVA DE SUMINISTRO ENERGÉTICO                                                                        TRANSPORTE
+Medida:                                     Inicio estimado de implementación:                              Medida:                                         Inicio estimado de implementación:
+
+Se desarrollará el marco regulatorio                        2025                              2030
+                                                                                                            Se elaborará y mantendrá disponible                            2025                   2030
+necesario para el desarrollo de proyectos                                                                   material   de   difusión     e   información
+de energía distrital que permita ofrecer                                                                    respecto de la aplicación de eficiencia
+                                                 A partir                                                                                                  A partir
+a los usuarios una nueva alternativa             de 2023                                                    energética en edificaciones y se realizarán    de 2022
+de suministro energético eficiente y                                                                        actividades de difusión enfocada en los
+sostenible.                                                                                                 distintos actores del sector.
+                                            54                                                                                                             55
+                                                                                                                                                                                                    Plan Nacional de Eficiencia Energética | 2022 - 2026
+   SECTOR CIUDADANÍA                                                                                FORTALECIMIENTO DEL PROGRAMA EDUCATIVO
+                                                                                                    EN ENERGÍA Y SOSTENIBILIDAD
+                                                                                                    Medida:                                             Inicio estimado de implementación:
+
+                                                                                                    Se potenciará el programa educativo en                              2025                 2030
+                                                                                                    energía y sostenibilidad con el objetivo
+                                                                                                    de ampliar su cobertura y herramientas,
+                                                                                                                                                        A partir
+                                                                                                    generando competencias en equipos                   de 2022
+                                                                                                    directivos, de gestión y docentes.
+
+
+
+
+                                                                                                    ACTUALIZACIÓN Y AMPLIACIÓN
+                                                                                        Santiago    DEL ETIQUETADO DE ARTEFACTOS
+                                                                             Región Metropolitana
+
+                                                                                                    Medida:                                             Inicio estimado de implementación:
+    La eficiencia energética debe ser considerada una prioridad por parte de nuestra comunidad,
+                                                                                                    Se    actualizarán        las   etiquetas     de
+    por ello en esta sección se han agrupado temáticas que permitirán, a través de la educación                                                                         2025                 2030
+                                                                                                    eficiencia energética de lavadoras, aire
+    y formación ciudadana, abordar el cambio cultural en el uso y recambio de artefactos de
+                                                                                                    acondicionado y artefactos con consumo
+    uso doméstico y oficinas, y la transición hacia ciudades inteligentes.                                                                              A partir
+                                                                                                    en espera. Se elaborará un etiquetado               de 2022
+                                                                                                    para nuevos artefactos como equipos
+                                                                                                    de climatización y vitrinas refrigerantes.
+
+DIFUSIÓN DE INFORMACIÓN CIUDADANA SOBRE
+LA RELEVANCIA DEL BUEN USO DE LA ENERGÍA
+PARA LA CIUDADANÍA                                                                                  ACTUALIZACIÓN Y AMPLIACIÓN DE ESTÁNDARES
+                                                                                                    MÍNIMOS DE EFICIENCIA ENERGÉTICA PARA
+Medida:                                          Inicio estimado de implementación:
+                                                                                                    ARTEFACTOS
+Se elaborará contenido en un lenguaje                           2025                       2030
+                                                                                                    Medida:                                             Inicio estimado de implementación:
+sencillo, transversal e inclusivo, y además
+se realizarán actividades de difusión y                                                             Se   actualizará     el    estándar      mínimo
+                                                A partir                                                                                                                2025                 2030
+formación ciudadana sobre la eficiencia         de 2022                                             de    eficiencia     energética        de    aire
+energética, los beneficios que ésta ofrece                                                          acondicionado.            Se         establecerá
+                                                                                                                                                             A partir
+a las personas y las formas de hacer                                                                un   estándar      mínimo       de     eficiencia        de 2023
+un uso responsable y sostenible de la                                                               energética para televisores, secadoras,
+energía, recogiendo las particularidades                                                            hornos eléctricos, hornos microondas y
+territoriales.                                                                                      lavavajillas.
+
+                                                 56                                                                                                     57
+                                                                                                                                                                                      Plan Nacional de Eficiencia Energética | 2022 - 2026
+                                                                                       FOMENTAR EL RECAMBIO
+   Metas:
+                                                                                       DE ARTEFACTOS EFICIENTES
+
+          70%
+          El 70% de las principales
+                                                  100%
+                                                  El 100% de las principales
+                                                                                       Medida:
+
+                                                                                       Se potenciará el programa de formación
+                                                                                                                                   Inicio estimado de implementación:
+
+                                                                                                                                                    2025                 2030
+
+          categorías de artefactos y              categorías de artefactos y           ciudadana a nivel nacional, que considera
+          equipos que se venden en                equipos que se venden en             la   transferencia   de   conocimientos,
+          el mercado corresponden                 el mercado corresponden                                                          A partir
+          a equipos energéticamente               a equipos energéticamente            experiencias sobre eficiencia energética    de 2022
+          eficientes al 2035                      eficientes al 2050                   y facilita artefactos de ahorro y gestión
+                                                                                       de la energía de mayor tecnología y
+                                                                                       eficiencia, que potencialmente reduzcan
+                                                                                       el consumo de energía en el hogar.
+
+
+
+
+                                                                                       ANALIZAR EL IMPACTO DE LAS CIUDADES
+                                                                                       INTELIGENTES EN LA EFICIENCIA ENERGÉTICA
+                                                                                       Medida:                                     Inicio estimado de implementación:
+
+                                                                                       Se elaborará un estudio que analice                         2025                 2030
+                                                                                       los impactos de la implementación de
+                                                                                       ciudades inteligentes en la eficiencia
+                                                                                                                                        A partir
+                                                                                       energética y de las barreras existentes          de 2023
+                                                                                       que puedan estar evitando su desarrollo.
+DIFUSIÓN DEL ETIQUETADO DE EFICIENCIA
+ENERGÉTICA DE ARTEFACTOS
+Medida:                                    Inicio estimado de implementación:
+
+Se elaborará un sitio web que contenga                 2025                     2030
+información   centralizada   sobre    el
+etiquetado de los distintos productos
+                                           A partir
+de uso residencial, junto a un plan de     de 2022
+difusión que facilite a la ciudadanía la
+compra informada de sus artefactos y
+que promueva un uso eficiente de los                                                                                                                                   Providencia
+                                                                                                                                                               Región Metropolitana
+mismos.
+                                           58                                                                                      59
+                                                                                                                   Plan Nacional de Eficiencia Energética | 2022 - 2026
+COORDINACIÓN INSTITUCIONAL
+Medida:                                    Inicio estimado de implementación:
+
+Se generarán instancias de planificación               2025                     2030
+intersectorial para abordar la temática
+de eficiencia energética, con el fin de
+                                           A partir
+establecer una red de coordinación         de 2022
+y cooperación permanente entre los
+sectores público, privado, academia y
+sociedad civil.
+
+
+
+
+                                                                                                       Santiago
+                                                                                            Región Metropolitana
+
+
+                                           60                                          61
+                                                                                                                                                    Plan Nacional de Eficiencia Energética | 2022 - 2026
+                                              EVALUACIÓN DE IMPACTO
+                                              DEL PLAN
+                                              Las medidas de eficiencia energética presentadas en este Plan han sido evaluadas para calcular
+                                              su costo-efectividad. Por una parte, se ha realizado el ejercicio de estimar los ahorros que se
+                                              generan para cada una de ellas, y luego se evalúan los beneficios que genera el ahorro de esa
+                                              energía. Estos beneficios económicos se contrastan con los costos e inversiones requeridas
+                                              para su implementación.
+
+                                              De acuerdo a esta evaluación, una medida resulta ser costo-efectiva cuando el costo nivelado
+                                              de la energía ahorrada es inferior al precio estimado de generar una unidad energética adicional.
+
+                                              Es importante considerar para esta evaluación, que el modelo utilizado es conservador, ya que
+                                              no se han tomado en cuenta para este cálculo todas las externalidades del sector energía,
+                                              por ejemplo las reducciones de emisiones derivadas de un menor consumo.
+
+                                              Considerando como horizonte el año 2050, el costo total de la implementación de las medidas
+                                              del Plan es de aproximadamente 50 mil millones de dólares, mientras que los beneficios por el
+                                              ahorro que dichas medidas generan son del orden de los 116 mil millones de dólares. Es decir,
+                                              el Plan genera un beneficio neto del orden de los 66 mil millones de dólares.
+
+
+
+
+                                                                                                            Es decir, el Plan genera un beneficio
+                                                                                                            neto del orden de los 66 mil millones
+                                                                                                            de dólares.
+                           Valle de la Luna
+                    Región de Antofagasta
+
+
+                                              Beneficios Netos Plan
+   5. SEGUIMIENTO                             Nacional de Eficiencia
+                                              Energética
+
+
+EVALUACIÓN Y
+                                              Fuente: Elaboración propia, Ministerio de Energía,
+                                              2021
+
+
+
+
+                                                                                                   MM USD
+                                                  Costo
+
+
+
+
+SEGUIMIENTO
+                                                  Beneficio
+
+                                                  Beneficio neto
+
+
+
+
+  DEL PLAN
+         62                                                                                                        63
+                                                                                                                                                              Plan Nacional de Eficiencia Energética | 2022 - 2026
+SEGUIMIENTO DE LA IMPLEMENTACIÓN
+DEL PLAN
+Establecer mecanismos de seguimiento y evaluación de las medidas establecidas en el Plan es clave
+para avanzar en el desarrollo de la eficiencia energética en nuestro país.
+
+Una de las barreras que generalmente se identifica en este ámbito es la dificultad inherente de
+monitorear la eficiencia energética, ya que es medir la ausencia de consumo. Por ello, establecer
+metodologías que permitan cuantificar los logros alcanzados es uno de los grandes desafíos de
+este Plan.
+
+Para lograr lo anterior, en línea con las prácticas propuestas por la Agencia Internacional de Energía8, se
+establecerán indicadores claves de seguimiento para cada sector de consumo, de manera agregada,
+con el objeto de evaluar las tendencias en cada sector.
+
+
+
+
+              Tipo de indicador            Variable                                              Fuente
+
+                                                                                                 Balance Nacional de Energía,
+              Consumo                      • Consumo de energía primaria.
+              energético                   • Consumo de energía final.                           Ministerio de Energía
+                                           • Consumo de energía final por sector
+                                             (industria y minería, transporte, comercial,
+                                             público, residencial).
+
+                                                                                                 Cuentas Nacionales, Banco
+              Económico                    • Producto Interno Bruto.
+                                           • Valor Agregado Bruto por actividad                  Central.
+                                             económica.
+                                           • Ingreso disponible para hogares.
+
+                                                                                                 Relación entre los indicadores
+              Intensidad                   • Intensidad energética país.
+              energética                   • Intensidad energética por sector.                   de consumo energético e
+                                                                                                 indicadores económicos.
+
+
+
+
+Para cada sector se realizará seguimiento a un conjunto de indicadores que permitan dar cuenta del
+avance en el desempeño energético.
+
+
+
+
+                                                                                                                                                     Chiloé
+8.   Indicadores de Eficiencia Energética: Fundamentos Estadísticos, Agencia Internacional de Energía, 2016.                           Región de Los Lagos
+
+
+                                                                  64                                                              65
+                                                                                                                                                                                                            Plan Nacional de Eficiencia Energética | 2022 - 2026
+                                                                                                                                                                                              Las Condes
+                                                                                                                                                                                     Región Metropolitana
+
+
+
+
+Indicadores                                                    Indicadores                                                      Indicadores
+Sectores Productivos                                           Sector Transporte                                                Sector Edificaciones
+En el caso de los sectores productivos, se utilizará como      Para el sector transporte, se establecerán mecanismos            En    el   caso     del   sector    edificaciones,     se    levantará
+indicador de seguimiento la información de intensidad          que permitan recabar información del sector de manera            información relacionada a la superficie de las mismas,
+energética que deben informar anualmente los grandes           permanente, ya que actualmente la información es limitada        así   como    los     principales    usos   finales,     tales   como
+consumidores de energía al Ministerio de Energía en            y de difícil acceso.                                             climatización, calentamiento de agua, cocción, iluminación,
+conformidad con la Ley 21.305. Este indicador se obtendrá                                                                       electrodomésticos y otros equipamientos. Adicionalmente,
+                                                               Entre la información que se espera levantar se considera:
+tanto en unidades de energía por ventas monetizadas                                                                             esta información debe estar desagregada para el sector
+                                                               cantidad y tipo de vehículo en el parque; rendimiento
+reajustadas, indicador que permitirá obtener estadísticas                                                                       residencial, público y comercial.
+                                                               energético de cada tipo de vehículo; kilómetros recorridos por
+agrupadas para todos los sectores productivos, como
+                                                               tipo de vehículo; cantidad pasajeros transportados; toneladas    Con esta información se elaborarán indicadores de
+también en unidades de energía por cantidad de producción,
+                                                               transportadas por modo (caminero, aéreo, marítimo).              desempeño basados en el nivel de consumo por vivienda,
+siendo este último indicador comparable sólo entre
+                                                                                                                                por cantidad de habitantes o trabajadores, y por metro
+subsectores que tengan un mismo tipo de producción.            De este modo, se elaborarán indicadores de desempeño
+                                                                                                                                cuadrado construido.
+                                                               basados en el nivel de consumo por cantidad de pasajeros o
+Adicionalmente, se considerará el indicador intensidad
+                                                               carga transportada, y por kilómetros recorridos.
+energética calculada como el consumo total de los sectores
+productivos sobre el valor agregado bruto de cada actividad,
+lo que permitirá además una comparación con otros
+mercados a nivel internacional.
+                                            66                                                                                                67
+                                                                                                                                    Plan Nacional de Eficiencia Energética | 2022 - 2026
+INSTRUMENTOS DE SEGUIMIENTO
+DE LAS MEDIDAS
+A nivel de implementación de medidas, es importante notar que existen al menos tres elementos
+a considerar: avance en su implementación, reporte administrativo y financiero de los recursos
+involucrados, y los objetivos alcanzados.
+
+Se propone la creación de instrumentos para cada etapa de implementación de las medidas que den
+cuenta de su diseño, ejecución y resultados. Para ello, se elaborarán fichas que describan estas tres
+etapas, estableciéndose al menos una Ficha de inicio, Fichas anuales de ejecución, y una Ficha de
+cierre.
+
+Cabe destacar que existirán medidas cuyos resultados, por ejemplo, en términos de ahorro de energía,
+no se constatarán aún al cierre de su implementación, sino que de manera posterior. Un ejemplo claro
+de este tipo de medidas es la formación de capital humano, donde los ahorros esperados se obtendrán
+de manera posterior a las actividades de formación o capacitación. Por lo tanto, en aquellas medidas
+en que se identifique la necesidad de establecer una etapa de seguimiento posterior al término de la
+implementación, se establecerá una “Ficha de seguimiento”.
+
+
+
+
+    Seguimiento de las medidas
+
+          Ficha                Ficha anual                Ficha                 Ficha de
+          de inicio            de ejecución               de cierre             seguimiento
+
+
+
+
+          Entre los contenidos mínimos que deberán contender cada
+          una de las fichas se incluye: descripción y contexto de la
+          implementación de la medida, el grupo objetivo que se
+          pretende abarcar, objetivos o metas estimadas a alcanzar,
+          estimación de presupuesto requeridos al inicio y sus
+          actualizaciones durante la ejecución, y los mecanismos de
+          seguimiento administrativo y operativo.
+
+
+                                                                                                                     San Antonio
+                                                                                                             Región de Valparaíso
+
+                                                 68                                                     69
+70
+71
+     Desierto de Atacama
+
+
+
+
+                           Plan Nacional de Eficiencia Energética | 2022 - 2026
+                                                                                                                      Plan Nacional de Eficiencia Energética | 2022 - 2026
+REFERENCIAS
+• Grupo Intergubernamental de Expertos sobre el Cambio Climático. (2021). El cambio
+ climático es generalizado, rápido y se está intensificando. Obtenido de https://www.
+ ipcc.ch/site/assets/uploads/2021/08/IPCC_WGI-AR6-Press-Release-Final_es.pdf
+
+• Agencia Internacional de Energía. (2020). Energy Efficiency 2020. Obtenido de https://
+ www.iea.org/reports/energy-efficiency-2020
+
+• Agencia Internacional de Energía. (2021). Data and statistics. Obtenido de https://
+ www.iea.org/data-and-statistics/data-products?filter=efficiency
+
+• Agencia Internacional de Energía. (2020). SDG7: Data and Projections. Obtenido de
+ https://www.iea.org/reports/sdg7-data-and-projections
+
+• Banco Central de Chile. (2021). Base de Datos Estadística. Obtenido de https://si3.
+ bcentral.cl/siete
+
+
+
+
+                                                                                                         Puerto Fuy
+                                                                                                Región de Los Lagos
+
+                                         72                                                73
+   PLAN NACIONAL DE
+EFICIENCIA ENERGÉTICA
+       2022-2026
+    https://energia.gob.cl/ley-ee
+
+
+
+
+                 74
+
